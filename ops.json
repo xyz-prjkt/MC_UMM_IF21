@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "ddc9270b-02b8-3d56-a0b2-c18bf3db91db",
+    "name": "xyzuan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "adde05c5-3887-3e37-961c-c1217f2ffdeb",
+    "name": "AdytmX404",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
