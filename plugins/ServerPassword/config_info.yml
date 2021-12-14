@@ -1,0 +1,21 @@
+# THIS FILE HAS NO EFFECT -> It's only for explanation.
+# Here you set the server password!
+password: serverpw
+
+# A player gets this message when he entered a wrong password!
+kickmessage: The password was incorrect!
+
+# After this time(in seconds), a player will be kicked when he hasn't entered the password
+autokickTime: 60
+
+# ...and gets this message!
+autokickMessage: Yon don't entered any password!
+
+# Set this to true, if you want that players get banned after they typed in the incorrect password X times (false = players got kicked, true = players got banned)
+banfeature: false
+
+# You'll get this message, if you get banned
+banmessage: You got banned, because you typed too often the incorrect password!
+
+# How often players can type the incorrect password until they get banned
+limit: 5

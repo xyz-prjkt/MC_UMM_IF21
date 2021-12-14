@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-12-13 11:49:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-12-12 17:29:53 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2021-12-13 06:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-12-13 11:45:57 +0000"
     },
     "done": true
   },
@@ -1150,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2021-12-13 11:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2021-12-12 17:29:14 +0000"
@@ -1463,7 +1481,9 @@
       "minecraft:forest": "2021-12-13 02:39:45 +0000",
       "minecraft:windswept_forest": "2021-12-13 02:04:21 +0000",
       "minecraft:ocean": "2021-12-13 02:29:39 +0000",
-      "minecraft:deep_lukewarm_ocean": "2021-12-13 02:40:04 +0000"
+      "minecraft:deep_lukewarm_ocean": "2021-12-13 02:40:04 +0000",
+      "minecraft:flower_forest": "2021-12-13 11:55:25 +0000",
+      "minecraft:plains": "2021-12-13 11:59:41 +0000"
     },
     "done": false
   },
@@ -1554,6 +1574,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-12-12 17:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-12-13 11:47:29 +0000"
     },
     "done": true
   },
@@ -1767,5 +1793,11 @@
     },
     "done": true
   },
-  "DataVersion": 2860
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2021-12-13 11:49:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
 }

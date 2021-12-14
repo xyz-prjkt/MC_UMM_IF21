@@ -1,0 +1,10 @@
+# Configuration file for ServerPassword!
+# Have a look in config_info.yml for more information!
+
+password: if21
+kickmessage: MCIF21, Password Salah Bujang!!!
+autokickTime: 60
+autokickMessage: MCIF21, Ketik Passwordnya Bujang!!!
+banfeature: false
+banmessage: You got banned, because you typed too often the incorrect password!
+limit: 5

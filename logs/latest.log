@@ -1,812 +1,896 @@
-[00:02:41] [Server thread/INFO]: AdytmX404[/36.77.46.228:56987] logged in with entity id 76 at ([world]75.69999998807907, 64.0, 346.08562113477825)
-[00:19:34] [Server thread/INFO]: Made AdytmX404 a server operator
-[00:21:13] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.30365742187719036
-[00:21:49] [Server thread/INFO]: xyzuan[/36.90.60.213:28481] logged in with entity id 3736 at ([world]-42.592427924048316, 80.0, 795.927144726571)
-[00:22:27] [Netty Epoll Server IO #7/INFO]: <xyzuan> dimana gya lu[m
-[00:22:34] [Netty Epoll Server IO #5/INFO]: <AdytmX404> di deket rumah[m
-[00:22:56] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
-[00:22:56] [Server thread/INFO]: [xyzuan: Teleported xyzuan to AdytmX404]
-[00:23:13] [Netty Epoll Server IO #7/INFO]: <xyzuan> oi[m
-[00:23:28] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.3459826505310275
-[00:23:28] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.45088734314435897
-[00:23:28] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.5500188958405374
-[00:23:39] [Netty Epoll Server IO #7/INFO]: <xyzuan> udah w jadiin op lw[m
-[00:23:51] [Netty Epoll Server IO #5/INFO]: <AdytmX404> njir manteb[m
-[00:25:30] [Netty Epoll Server IO #5/INFO]: <AdytmX404> masuk njir[m
-[00:25:55] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[00:25:55] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[00:28:10] [Netty Epoll Server IO #7/INFO]: <xyzuan> ada naga ajg[m
-[00:28:17] [Netty Epoll Server IO #5/INFO]: <AdytmX404> makanya aowkoakw[m
-[00:28:55] [Server thread/INFO]: AdytmX404 issued server command: /weather clear
-[00:28:55] [Server thread/INFO]: [AdytmX404: Set the weather to clear]
-[00:34:23] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_pickaxe
-[00:34:23] [Server thread/INFO]: [xyzuan: Gave 1 [Diamond Pickaxe] to xyzuan]
-[00:38:20] [Server thread/INFO]: xyzuan was slain by Zombie
-[00:38:34] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
-[00:38:34] [Server thread/INFO]: [xyzuan: Teleported xyzuan to AdytmX404]
-[00:38:56] [Netty Epoll Server IO #7/INFO]: <xyzuan> ga ada kasur a njir[m
-[00:39:03] [Netty Epoll Server IO #5/INFO]: <AdytmX404> di atas[m
-[00:39:06] [Netty Epoll Server IO #7/INFO]: <xyzuan> spawn random aku[m
-[00:39:26] [Netty Epoll Server IO #7/INFO]: <xyzuan> wkwkw liat ni[m
-[00:39:32] [Netty Epoll Server IO #7/INFO]: <xyzuan> gya sini[m
-[00:40:50] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:iron_door
-[00:40:50] [Server thread/INFO]: [xyzuan: Gave 1 [Iron Door] to xyzuan]
-[00:41:28] [Netty Epoll Server IO #5/INFO]: <AdytmX404> bikin tombol[m
-[00:42:32] [Netty Epoll Server IO #5/INFO]: <AdytmX404> tombol keluarnya mana njir[m
-[00:42:39] [Netty Epoll Server IO #5/INFO]: <AdytmX404> pintu gada bukaannya[m
-[00:43:03] [Netty Epoll Server IO #5/INFO]: <AdytmX404> bikin buat buka pintu nya[m
-[00:43:08] [Netty Epoll Server IO #7/INFO]: <xyzuan> bentar[m
-[00:43:29] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:dark_oak_pressure_plate
-[00:43:29] [Server thread/INFO]: [xyzuan: Gave 1 [Dark Oak Pressure Plate] to xyzuan]
-[00:43:53] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:acacia_pressure_plate
-[00:43:53] [Server thread/INFO]: [xyzuan: Gave 1 [Acacia Pressure Plate] to xyzuan]
-[00:48:38] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[00:48:38] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[00:49:38] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[00:49:38] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[00:49:39] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[00:49:39] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[00:50:14] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[00:50:14] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[00:50:16] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[00:50:16] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[01:06:04] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[01:06:04] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[01:06:06] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[01:06:06] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[01:06:06] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[01:06:06] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[01:06:09] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[01:06:09] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[01:06:10] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[01:06:10] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[01:06:12] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[01:06:12] [Server thread/INFO]: [xyzuan: Gave 1 [Torch] to xyzuan]
-[01:08:06] [Netty Epoll Server IO #5/INFO]: <AdytmX404> biar gada zombie jalan harus terang[m
-[01:09:06] [Server thread/INFO]: AdytmX404 has made the advancement [Not Today, Thank You]
-[01:10:31] [Server thread/INFO]: AdytmX404 was impaled by Drowned
-[01:11:38] [Server thread/INFO]: xyzuan was impaled by Drowned
-[01:11:54] [Server thread/INFO]: AdytmX404 was impaled by Drowned
-[01:25:14] [Netty Epoll Server IO #7/INFO]: <xyzuan> gya[m
-[01:25:18] [Netty Epoll Server IO #5/INFO]: <AdytmX404> oiy[m
-[01:25:20] [Netty Epoll Server IO #7/INFO]: <xyzuan> gya[m
-[01:25:26] [Netty Epoll Server IO #7/INFO]: <xyzuan> dmna lw[m
-[01:25:32] [Netty Epoll Server IO #5/INFO]: <AdytmX404> di rumah[m
-[01:26:26] [Server thread/INFO]: xyzuan issued server command: /time set day
-[01:26:26] [Server thread/INFO]: [xyzuan: Set the time to 1000]
-[01:27:51] [Server thread/INFO]: xyzuan hit the ground too hard
-[01:27:57] [Netty Epoll Server IO #5/INFO]: <AdytmX404> lah[m
-[01:28:11] [Server thread/INFO]: xyzuan was slain by Enderman
-[01:28:22] [Netty Epoll Server IO #7/INFO]: <xyzuan> dikejer enderman kntl[m
-[01:28:29] [Netty Epoll Server IO #5/INFO]: <AdytmX404> matanya jangan di liaat[m
-[01:38:46] [Server thread/INFO]: AdytmX404 issued server command: /time set day
-[01:38:46] [Server thread/INFO]: [AdytmX404: Set the time to 1000]
-[01:41:37] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:cobblestone 100
-[01:41:37] [Server thread/INFO]: [xyzuan: Gave 100 [Cobblestone] to xyzuan]
-[01:42:10] [Server thread/INFO]: xyzuan fell from a high place
-[01:42:27] [Netty Epoll Server IO #7/INFO]: <xyzuan> tumbal proyekk awow[m
-[01:42:28] [Server thread/INFO]: Minns[/125.164.15.138:65051] logged in with entity id 20083 at ([world]2571.5, 76.0, -722.5)
-[01:43:39] [Server thread/INFO]: FerZen[/110.136.218.255:21331] logged in with entity id 20613 at ([world]-87.30000001192093, 77.16477328182607, 233.30000001192093)
-[01:45:13] [Server thread/INFO]: AdytmX404 issued server command: /tp FerZen ~ ~ ~
-[01:45:13] [Server thread/INFO]: [AdytmX404: Teleported FerZen to 70.279309, 67.000000, 332.300000]
-[01:45:47] [Server thread/INFO]: xyzuan went up in flames
-[01:45:51] [Netty Epoll Server IO #5/INFO]: <AdytmX404> lol[m
-[01:46:04] [Server thread/INFO]: xyzuan lost connection: Timed out
-[01:46:04] [Server thread/INFO]: xyzuan left the game
-[01:46:04] [Server thread/WARN]: handleDisconnection() called twice
-[01:46:08] [Server thread/INFO]: xyzuan[/36.90.60.213:28302] logged in with entity id 21624 at ([world]73.75983870495138, 64.4375, 338.2407154701589)
-[01:46:10] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['xyzuan'/21624, l='ServerLevel[world]', x=73.76, y=64.44, z=338.24, removed=KILLED](xyzuan at 73.75983870495138,64.4375,338.2407154701589)'
-[01:46:33] [Server thread/INFO]: xyzuan lost connection: Timed out
-[01:46:33] [Server thread/INFO]: xyzuan left the game
-[01:46:42] [Server thread/INFO]: FerZen has made the advancement [Cover Me with Diamonds]
-[01:47:10] [Server thread/INFO]: xyzuan[/36.90.60.213:28328] logged in with entity id 22497 at ([world]73.75983870495138, 64.4375, 338.2407154701589)
-[01:47:12] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['xyzuan'/22497, l='ServerLevel[world]', x=73.76, y=64.44, z=338.24, removed=KILLED](xyzuan at 73.75983870495138,64.4375,338.2407154701589)'
-[01:47:35] [Server thread/INFO]: xyzuan lost connection: Timed out
-[01:47:35] [Server thread/INFO]: xyzuan left the game
-[01:48:13] [Server thread/INFO]: xyzuan[/36.90.60.213:28351] logged in with entity id 23260 at ([world]75.5, 67.0, 342.5)
-[01:48:43] [Netty Epoll Server IO #14/INFO]: <xyzuan> njir item ku mana[m
-[01:51:08] [Server thread/INFO]: xyzuan went up in flames
-[01:53:23] [Netty Epoll Server IO #14/INFO]: <xyzuan> oe[m
-[01:54:26] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:cobblestone 1000
-[01:54:26] [Server thread/INFO]: [xyzuan: Gave 1000 [Cobblestone] to xyzuan]
-[01:57:55] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_pickaxe
-[01:57:55] [Server thread/INFO]: [xyzuan: Gave 1 [Diamond Pickaxe] to xyzuan]
-[02:03:01] [Server thread/INFO]: AdytmX404 issued server command: /tp FerZen ~ ~ ~
-[02:03:01] [Server thread/INFO]: [AdytmX404: Teleported FerZen to 94.162289, 63.085764, 367.569010]
-[02:03:57] [Netty Epoll Server IO #9/INFO]: <Minns> coordinate mu brp ogy?[m
-[02:04:08] [Netty Epoll Server IO #14/INFO]: <xyzuan> 696969[m
-[02:04:12] [Netty Epoll Server IO #9/INFO]: <Minns> nice[m
-[02:04:39] [Server thread/INFO]: xyzuan was slain by Enderman
-[02:05:01] [Server thread/INFO]: xyzuan was slain by Enderman
-[02:06:00] [Server thread/INFO]: xyzuan issued server command: /teleport FerZen
-[02:06:00] [Server thread/INFO]: [xyzuan: Teleported xyzuan to FerZen]
-[02:08:32] [Server thread/INFO]: xyHUMAN[/125.166.1.143:11894] logged in with entity id 31391 at ([world]-71.5, 74.0, 233.5)
-[02:08:43] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[02:08:43] [Server thread/INFO]: [xyzuan: Teleported xyzuan to xyHUMAN]
-[02:08:50] [Netty Epoll Server IO #15/INFO]: <xyHUMAN> jody puqi[m
-[02:09:25] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
-[02:09:25] [Server thread/INFO]: [xyzuan: Teleported xyzuan to AdytmX404]
-[02:09:30] [Server thread/INFO]: xyzuan lost connection: Timed out
-[02:09:30] [Server thread/INFO]: xyzuan left the game
-[02:09:30] [Server thread/WARN]: handleDisconnection() called twice
-[02:09:33] [Server thread/INFO]: xyzuan[/36.90.60.213:28352] logged in with entity id 31865 at ([world]73.0210476762372, 70.5, 343.5071073701936)
-[02:09:58] [Server thread/INFO]: xyzuan lost connection: Timed out
-[02:09:58] [Server thread/INFO]: xyzuan left the game
-[02:10:04] [Server thread/INFO]: xyzuan[/36.90.60.213:28373] logged in with entity id 32002 at ([world]73.0067493798484, 70.5, 343.4983911511224)
-[02:10:05] [Netty Epoll Server IO #15/INFO]: <xyHUMAN> mana lu jod[m
-[02:10:52] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[02:10:52] [Server thread/INFO]: [xyzuan: Teleported xyzuan to xyHUMAN]
-[02:11:37] [Server thread/INFO]: xyzuan was slain by Spider
-[02:11:47] [Server thread/INFO]: xyHUMAN has made the advancement [Stone Age]
-[02:11:52] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[02:11:52] [Server thread/INFO]: [xyzuan: Teleported xyzuan to xyHUMAN]
-[02:12:07] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[02:12:07] [Server thread/INFO]: [xyzuan: Teleported xyzuan to xyHUMAN]
-[02:12:49] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[02:12:53] [Server thread/WARN]: xyHUMAN was kicked for floating too long!
-[02:12:53] [Server thread/INFO]: xyHUMAN lost connection: Flying is not enabled on this server
-[02:12:53] [Server thread/INFO]: xyHUMAN left the game
-[02:12:53] [Server thread/WARN]: handleDisconnection() called twice
-[02:13:00] [Server thread/INFO]: xyHUMAN[/125.166.1.143:7164] logged in with entity id 33160 at ([world]-85.38690239387442, 69.0, 357.7132118655724)
-[02:13:01] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['xyHUMAN'/33160, l='ServerLevel[world]', x=-85.39, y=69.00, z=357.71, removed=KILLED](xyHUMAN at -85.38690239387442,69.0,357.7132118655724)'
-[02:13:09] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
-[02:13:09] [Server thread/INFO]: [xyzuan: Teleported xyzuan to AdytmX404]
-[02:15:38] [Server thread/INFO]: xyzuan issued server command: /pull
-[02:15:41] [Server thread/INFO]: xyzuan issued server command: /help
-[02:15:48] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[02:15:50] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[02:15:57] [Server thread/INFO]: xyzuan issued server command: /help
-[02:16:07] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[02:16:07] [Server thread/INFO]: [xyzuan: Teleported xyzuan to xyHUMAN]
-[02:16:35] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[02:17:17] [Server thread/INFO]: xyzuan fell from a high place
-[02:17:24] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[02:17:24] [Server thread/INFO]: [xyzuan: Teleported xyzuan to xyHUMAN]
-[02:17:29] [Server thread/INFO]: xyHUMAN fell from a high place
-[02:17:45] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[02:17:45] [Server thread/INFO]: [xyzuan: Teleported xyzuan to xyHUMAN]
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 1.0145455987441707
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.7896519837693745
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.9773199648845363
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.7502671695965546
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.9400943310249019
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.710929493641629
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.9028686971652675
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.6716499292791198
-[02:18:39] [Server thread/WARN]: Boat (vehicle of AdytmX404) moved wrongly! 0.4012702057669344
-[02:23:28] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
-[02:23:28] [Server thread/INFO]: [xyzuan: Teleported xyzuan to AdytmX404]
-[02:24:14] [Netty Epoll Server IO #3/INFO]: <xyHUMAN> Jody bujank[m
-[02:24:20] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[02:24:20] [Server thread/INFO]: [xyzuan: Teleported xyzuan to xyHUMAN]
-[02:26:41] [Netty Epoll Server IO #2/INFO]: <xyzuan> t[m
-[02:29:12] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:fishing_rod
-[02:29:12] [Server thread/INFO]: [xyzuan: Gave 1 [Fishing Rod] to xyzuan]
-[02:29:48] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[02:30:09] [Server thread/INFO]: AdytmX404 issued server command: /tp xyHUMAN ~ ~ ~
-[02:30:09] [Server thread/INFO]: [AdytmX404: Teleported xyHUMAN to 78.670296, 63.000000, 351.053517]
-[02:30:22] [Netty Epoll Server IO #5/INFO]: <AdytmX404> ~ ~ ~[m
-[02:30:26] [Netty Epoll Server IO #2/INFO]: <xyzuan> ~~~[m
-[02:30:36] [Netty Epoll Server IO #5/INFO]: <AdytmX404> tp nama ~ ~ ~[m
-[02:30:46] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN ~ ~ ~
-[02:30:46] [Server thread/INFO]: [xyzuan: Teleported xyHUMAN to 77.701966, 64.000000, 349.788840]
-[02:31:10] [Server thread/WARN]: Boat (vehicle of xyzuan) moved wrongly! 0.6036583619461908
-[02:31:10] [Server thread/WARN]: Boat (vehicle of FerZen) moved wrongly! 0.6645820797293709
-[02:31:10] [Server thread/WARN]: Boat (vehicle of FerZen) moved wrongly! 0.38486564164389847
-[02:31:10] [Server thread/WARN]: Boat (vehicle of FerZen) moved wrongly! 0.6645820797293709
-[02:31:10] [Server thread/WARN]: Boat (vehicle of FerZen) moved wrongly! 0.3758703833983077
-[02:31:54] [Server thread/INFO]: AdytmX404 issued server command: /gamerule logAdminCommands false
-[02:32:37] [Server thread/WARN]: Boat (vehicle of xyzuan) moved wrongly! 0.2909116166496801
-[02:32:37] [Server thread/WARN]: Boat (vehicle of xyzuan) moved wrongly! 0.5345005139578234
-[02:32:37] [Server thread/WARN]: Boat (vehicle of xyzuan) moved wrongly! 0.74873051469541
-[02:32:37] [Server thread/WARN]: Boat (vehicle of xyzuan) moved wrongly! 0.9365375088048609
-[02:32:37] [Server thread/WARN]: Boat (vehicle of xyzuan) moved wrongly! 1.1005637981930363
-[02:32:37] [Server thread/WARN]: Boat (vehicle of xyzuan) moved wrongly! 1.2431874539580576
-[02:33:44] [Server thread/INFO]: Shinting[/180.248.36.2:49853] logged in with entity id 41798 at ([world]76.69999998807907, 64.0, 343.30000001192093)
-[02:33:53] [Server thread/INFO]: AdytmX404 issued server command: /spawnpoint @a ~ ~ ~
-[02:34:05] [Server thread/INFO]: xyzuan issued server command: /tp Shinting ~ ~ ~
-[02:36:09] [Server thread/INFO]: xyzuan issued server command: /teleport
-[02:36:19] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
-[02:36:23] [Server thread/INFO]: AdytmX404 issued server command: /gamemode creative
-[02:36:44] [Server thread/INFO]: xyHUMAN was slain by Shinting
-[02:37:03] [Server thread/INFO]: xyzuan was slain by Shinting
-[02:37:49] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN ~ ~ ~
-[02:38:28] [Server thread/INFO]: xyzuan was slain by xyHUMAN
-[02:38:39] [Server thread/INFO]: FerZen has made the advancement [Not Today, Thank You]
-[02:38:46] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[02:39:17] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[02:39:21] [Server thread/WARN]: xyHUMAN was kicked for floating too long!
-[02:39:21] [Server thread/INFO]: xyHUMAN lost connection: Flying is not enabled on this server
-[02:39:21] [Server thread/INFO]: xyHUMAN left the game
-[02:39:21] [Server thread/WARN]: handleDisconnection() called twice
-[02:39:28] [Server thread/INFO]: xyHUMAN[/125.166.1.143:4983] logged in with entity id 43467 at ([world]71.23648576722253, 64.0, 337.3874295735202)
-[02:39:28] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['xyHUMAN'/43467, l='ServerLevel[world]', x=71.24, y=64.00, z=337.39, removed=KILLED](xyHUMAN at 71.23648576722253,64.0,337.3874295735202)'
-[02:39:34] [Server thread/WARN]: Boat (vehicle of FerZen) moved wrongly! 0.361355705499925
-[02:39:51] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[02:40:00] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
-[02:40:08] [Server thread/INFO]: AdytmX404 issued server command: /setblock ~ ~ ~
-[02:40:27] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:crossbow
-[02:40:42] [Server thread/INFO]: xyzuan fell from a high place
-[02:40:49] [Server thread/INFO]: AdytmX404 issued server command: /setblock ~ ~ ~
-[02:40:52] [Netty Epoll Server IO #6/INFO]: <xyHUMAN> Jody awokwowkowk[m
-[02:40:59] [Server thread/INFO]: AdytmX404 issued server command: /setblock ~ ~ ~ minecraft:acacia_button
-[02:41:09] [Server thread/INFO]: xyzuan issued server command: /give xyzuan bow 100
-[02:43:16] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:flint_and_steel
-[02:43:36] [Server thread/WARN]: xyzuan dropped their items too quickly!
-[02:43:36] [Server thread/INFO]: xyzuan lost connection: You dropped your items too quickly (Hacking?)
-[02:43:36] [Server thread/INFO]: xyzuan left the game
-[02:43:39] [Server thread/INFO]: xyzuan[/36.90.60.213:28308] logged in with entity id 47599 at ([world]77.62789546450136, 68.0, 329.4540849157158)
-[02:44:04] [Server thread/INFO]: xyzuan lost connection: Timed out
-[02:44:04] [Server thread/INFO]: xyzuan left the game
-[02:44:10] [Server thread/INFO]: xyzuan[/36.90.60.213:28314] logged in with entity id 47854 at ([world]77.62789546450136, 68.0, 329.4540849157158)
-[02:44:47] [Server thread/INFO]: AdytmX404 issued server command: /tp FerZen ~ ~ ~
-[02:45:16] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:flint_and_steel
-[02:46:08] [Server thread/INFO]: xyHUMAN went up in flames
-[02:47:02] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[02:47:23] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[02:47:49] [Server thread/INFO]: AdytmX404 issued server command: /setworldspawn 58 64 374
-[02:47:58] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[02:48:40] [Server thread/INFO]: xyzuan issued server command: /give xyzuan glass
-[02:49:08] [Server thread/INFO]: xyzuan walked into fire whilst fighting Shinting
-[02:49:19] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[02:49:24] [Server thread/INFO]: xyzuan went up in flames
-[02:49:44] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[02:49:58] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
-[02:50:36] [Server thread/INFO]: FerZen has made the advancement [Bring Home the Beacon]
-[02:50:52] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:pig_spawn_egg
-[02:51:10] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
-[02:51:28] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:zombified_piglin_spawn_egg
-[02:51:35] [Server thread/INFO]: xyHUMAN was slain by Zombified Piglin
-[02:51:38] [Server thread/INFO]: Minns has made the advancement [Take Aim]
-[02:51:48] [Server thread/INFO]: Shinting has made the advancement [Monster Hunter]
-[02:52:07] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:zombie_horse_spawn_egg
-[02:52:24] [Server thread/INFO]: AdytmX404 issued server command: /setworldspawn 57 64 373
-[02:52:29] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:zombie_head
-[02:52:41] [Server thread/INFO]: AdytmX404 issued server command: /spawnpoint @a 58 64 375
-[02:52:41] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:zombie_spawn_egg
-[02:52:49] [Server thread/INFO]: xyHUMAN was slain by Zombie
-[02:53:08] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[02:53:26] [Server thread/INFO]: xyzuan was slain by xyHUMAN
-[02:53:32] [Netty Epoll Server IO #6/INFO]: <xyHUMAN> awokwokwowk[m
-[02:53:36] [Server thread/INFO]: xyHUMAN was slain by Shinting
-[02:53:59] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[02:54:19] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[02:54:44] [Server thread/INFO]: xyzuan issued server command: /teleport Minns
-[02:54:57] [Server thread/INFO]: FerZen lost connection: Disconnected
-[02:54:57] [Server thread/INFO]: FerZen left the game
-[02:55:09] [Server thread/INFO]: xyzuan was blown up by Creeper
-[02:55:24] [Server thread/INFO]: xyzuan issued server command: /teleport
-[02:55:30] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
-[02:55:45] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:zombie_head
-[02:56:01] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_sword
-[02:56:23] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[02:56:29] [Server thread/INFO]: xyHUMAN was slain by Shinting
-[02:56:37] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[02:57:37] [Server thread/INFO]: xyzuan issued server command: /give xyHUMAN minecraft:diamond_pickaxe
-[02:57:47] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_pickaxe
-[02:58:12] [Server thread/INFO]: AdytmX404 issued server command: /setblock 65 45 368 minecraft:polished_andesite
-[02:58:14] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch 100
-[02:58:31] [Server thread/INFO]: AdytmX404 issued server command: /setblock 60
-[02:58:44] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:obsidian 300
-[02:58:44] [Server thread/INFO]: xyzuan has made the advancement [Ice Bucket Challenge]
-[02:58:52] [Server thread/INFO]: AdytmX404 issued server command: /setblock 60 ~ ~ minecraft:acacia_button
-[02:59:05] [Server thread/INFO]: AdytmX404 issued server command: /help
-[02:59:13] [Server thread/INFO]: AdytmX404 issued server command: /help 2
-[02:59:21] [Server thread/INFO]: AdytmX404 issued server command: /help 3
-[02:59:28] [Server thread/INFO]: AdytmX404 issued server command: /help 4
-[02:59:34] [Server thread/INFO]: AdytmX404 issued server command: /help 5
-[02:59:40] [Server thread/INFO]: AdytmX404 issued server command: /help 6
-[02:59:46] [Server thread/INFO]: AdytmX404 issued server command: /help 7
-[02:59:54] [Server thread/INFO]: AdytmX404 issued server command: /help 8
-[03:00:00] [Server thread/INFO]: AdytmX404 issued server command: /help 9
-[03:00:06] [Server thread/INFO]: AdytmX404 issued server command: /help 10
-[03:00:28] [Server thread/INFO]: AdytmX404 issued server command: /setblock 60
-[03:01:05] [Server thread/INFO]: AdytmX404 issued server command: /give AdytmX404 minecraft:command_block
-[03:01:17] [Server thread/INFO]: xyHUMAN was slain by Shinting
-[03:01:24] [Server thread/INFO]: xyzuan issued server command: /give xyzuan tnt 100
-[03:01:43] [Server thread/INFO]: xyHUMAN lost connection: Disconnected
-[03:01:43] [Server thread/INFO]: xyHUMAN left the game
-[03:01:45] [Server thread/INFO]: xyHUMAN[/125.166.1.143:7358] logged in with entity id 55176 at ([world]59.51625684466044, 71.0, 373.49351735193113)
-[03:01:54] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:flint_and_steel
-[03:02:05] [Server thread/INFO]: Minns lost connection: Disconnected
-[03:02:05] [Server thread/INFO]: Minns left the game
-[03:03:14] [Server thread/INFO]: AdytmX404 issued server command: /tp @p ~ ~ ~
-[03:04:29] [Netty Epoll Server IO #8/INFO]: <xyzuan> r[m
-[03:04:48] [Server thread/INFO]: xyzuan issued server command: /tp Shinting xyzuan
-[03:04:58] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[03:05:14] [Server thread/INFO]: Minns[/125.164.15.138:57936] logged in with entity id 55951 at ([world]3272.304459207524, -15.504799122994086, -978.7035624282752)
-[03:05:20] [Server thread/INFO]: Minns was slain by Spider
-[03:06:10] [Server thread/INFO]: AdytmX404 issued server command: /gamerule commandBlockOutput false
-[03:06:53] [Server thread/INFO]: AdytmX404 issued server command: /setblock 51
-[03:07:30] [Server thread/INFO]: AdytmX404 issued server command: /setblock 51 45 368
-[03:07:46] [Server thread/INFO]: xyzuan was blown up by xyzuan
-[03:07:56] [Netty Epoll Server IO #10/INFO]: <xyHUMAN> AWOKWOKWOWKOWK[m
-[03:08:08] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[03:08:14] [Server thread/INFO]: xyzuan issued server command: /give xyzuan tnt 100
-[03:08:17] [Server thread/INFO]: AdytmX404 issued server command: /setblock 51 45 368 minecraft:pointed_dripstone
-[03:08:19] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:flint_and_steel
-[03:08:35] [Server thread/INFO]: AdytmX404 issued server command: /setblock 32
-[03:09:03] [Server thread/INFO]: AdytmX404 issued server command: /setblock 32 92 422 minecraft:glass
-[03:09:10] [Server thread/INFO]: AdytmX404 issued server command: /setblock 32 92 422 minecraft:glass keep
-[03:09:18] [Server thread/INFO]: AdytmX404 issued server command: /setblock 32 92 422 minecraft:glass replace
-[03:09:30] [Server thread/INFO]: AdytmX404 issued server command: /setblock 32 92 ~ minecraft:acacia_button
-[03:09:37] [Server thread/INFO]: xyHUMAN was blown up by xyzuan
-[03:09:37] [Server thread/INFO]: xyzuan was blown up by xyzuan
-[03:09:56] [Server thread/INFO]: AdytmX404 issued server command: /setblock 22
-[03:10:11] [Server thread/INFO]: AdytmX404 issued server command: /setblock 22 86 ~ minecraft:acacia_door
-[03:10:18] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
-[03:10:43] [Server thread/INFO]: xyzuan issued server command: /teleport xyHUMAN
-[03:10:46] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
-[03:10:53] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[03:10:59] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['xyHUMAN'/55176, l='ServerLevel[world]', x=49.70, y=66.00, z=145.30, removed=KILLED](xyHUMAN at 49.69999998807907,66.0,145.30000001192093)'
-[03:11:28] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[03:11:28] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['xyHUMAN'/55176, l='ServerLevel[world]', x=49.30, y=66.00, z=145.70, removed=KILLED](xyHUMAN at 49.30000001192093,66.0,145.69999998807907)'
-[03:11:37] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN Shinting
-[03:11:37] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['xyHUMAN'/55176, l='ServerLevel[world]', x=49.70, y=66.00, z=145.30, removed=KILLED](xyHUMAN at 49.69999998807907,66.0,145.30000001192093)'
-[03:12:47] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN Shinting
-[03:14:07] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuanw
-[03:14:10] [Server thread/INFO]: xyHUMAN was slain by Spider
-[03:14:10] [Server thread/INFO]: xyzuan issued server command: /tp xyHUMAN xyzuan
-[03:14:39] [Server thread/INFO]: xyzuan discovered the floor was lava
-[03:14:50] [Server thread/INFO]: AdytmX404 issued server command: /say maklo hemker
-[03:14:50] [Server thread/INFO]: [AdytmX404] maklo hemker
-[03:14:58] [Server thread/INFO]: xyzuan issued server command: /tp Shinting xyzuan
-[03:15:01] [Server thread/INFO]: AdytmX404 issued server command: /tell @a p
-[03:16:28] [Server thread/INFO]: xyzuan issued server command: /teleport Minns
-[03:17:20] [Server thread/WARN]: xyHUMAN moved wrongly!
-[03:17:33] [Server thread/INFO]: xyzuan was shot by Skeleton
-[03:17:46] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
-[03:17:54] [Server thread/INFO]: xyHUMAN was slain by xyzuan
-[03:18:45] [Server thread/INFO]: xyzuan drowned
-[03:19:11] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:polished_diorite
-[03:19:16] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:polished_diorite 999
-[03:20:05] [Server thread/INFO]: xyzuan drowned
-[03:20:08] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:polished_diorite 999
-[03:20:10] [Server thread/INFO]: Minns was slain by Silverfish
-[03:20:14] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:polished_diorite 999
-[03:20:18] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:polished_diorite 999
-[03:20:22] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:polished_diorite 999
-[03:20:41] [Server thread/INFO]: Minns lost connection: Timed out
-[03:20:41] [Server thread/INFO]: Minns left the game
-[03:20:48] [Server thread/INFO]: Minns[/125.164.15.138:63649] logged in with entity id 60754 at ([world]31.852190420839634, 62.23137155281227, 350.58427480106116)
-[03:20:59] [Server thread/INFO]: xyzuan drowned
-[03:21:14] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:polished_diorite 999
-[03:23:56] [Server thread/INFO]: xyzuan lost connection: Disconnected
-[03:23:56] [Server thread/INFO]: xyzuan left the game
-[03:25:17] [Server thread/INFO]: xyHUMAN lost connection: Disconnected
-[03:25:17] [Server thread/INFO]: xyHUMAN left the game
-[03:25:51] [Server thread/INFO]: AdytmX404 issued server command: /gamemode survival
-[03:26:20] [Server thread/INFO]: AdytmX404 has made the advancement [Ice Bucket Challenge]
-[03:27:51] [Server thread/INFO]: PENSI[/36.68.8.181:6717] logged in with entity id 65419 at ([world]17.853369373723414, 82.0, 1006.5335003641028)
-[03:28:05] [Server thread/INFO]: AdytmX404 issued server command: /gamemode creative
-[03:28:17] [Server thread/INFO]: AdytmX404 issued server command: /gamemode survival
-[03:28:35] [Server thread/INFO]: Minns has made the advancement [Cover Me with Diamonds]
-[03:29:26] [Server thread/INFO]: AdytmX404 issued server command: /scoreboard players list @a
-[03:29:53] [Server thread/INFO]: PENSI lost connection: Disconnected
-[03:29:53] [Server thread/INFO]: PENSI left the game
-[03:31:03] [Server thread/INFO]: AdytmX404 issued server command: /gamerule spawnRadius 1
-[03:33:03] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:34:09] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:34:09] [Server thread/INFO]: AdytmX404 was struck by lightning
-[03:34:09] [Server thread/INFO]: PENSI[/36.68.8.181:8106] logged in with entity id 67166 at ([world]20.56607516380288, 91.0, 1020.4382065482318)
-[03:34:32] [Server thread/INFO]: AdytmX404 issued server command: /setworldspawn 58 64 375
-[03:34:43] [Server thread/INFO]: AdytmX404 issued server command: /spawnpoint @a 58 64 375
-[03:34:54] [Server thread/INFO]: AdytmX404 issued server command: /gamerule spawnRadius 1
-[03:35:09] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:35:11] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:35:13] [Server thread/INFO]: AdytmX404 went up in flames
-[03:35:24] [Netty Epoll Server IO #3/INFO]: <PENSI> owkkwokwokowkkwokw[m
-[03:35:30] [Server thread/INFO]: AdytmX404 issued server command: /gamerule spawnRadius 0
-[03:35:34] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:35:36] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:35:37] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:35:38] [Server thread/INFO]: AdytmX404 was struck by lightning
-[03:35:55] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:35:56] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[03:35:57] [Server thread/INFO]: AdytmX404 was struck by lightning
-[03:36:24] [Server thread/INFO]: PENSI lost connection: Disconnected
-[03:36:24] [Server thread/INFO]: PENSI left the game
-[03:36:33] [Server thread/INFO]: AdytmX404 issued server command: /help
-[03:36:43] [Server thread/INFO]: AdytmX404 issued server command: /help Bukkit
-[03:36:57] [Server thread/INFO]: AdytmX404 issued server command: /bukkit:plugins
-[03:38:11] [Server thread/INFO]: AdytmX404 issued server command: /locatebiome minecraft:savanna
-[03:38:22] [Server thread/INFO]: AdytmX404 issued server command: /locate mineshaft
-[03:38:35] [Server thread/INFO]: AdytmX404 issued server command: /tp -64 ~ 320
-[03:38:44] [Server thread/INFO]: AdytmX404 issued server command: /gamemode creative
-[03:39:05] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:ender_dragon
-[03:40:00] [Server thread/INFO]: AdytmX404 issued server command: /kill ender_dragon
-[03:41:25] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:fireball
-[03:42:28] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:fireball
-[03:43:12] [Server thread/INFO]: AdytmX404 issued server command: /locate ruined_portal
-[03:43:23] [Server thread/INFO]: AdytmX404 issued server command: /tp 160 ~ 128
-[03:44:00] [Server thread/INFO]: AdytmX404 issued server command: /locate village
-[03:44:11] [Server thread/INFO]: AdytmX404 issued server command: /tp -176 ~ 944
-[03:44:19] [Server thread/INFO]: Minns lost connection: Disconnected
-[03:44:19] [Server thread/INFO]: Minns left the game
-[03:45:00] [Server thread/INFO]: AdytmX404 issued server command: /clone -134
-[03:45:26] [Server thread/INFO]: AdytmX404 issued server command: /clone -134 81 894
-[03:45:37] [Server thread/INFO]: AdytmX404 issued server command: /clone -134 81 894 -268 76 939
-[03:45:48] [Server thread/INFO]: AdytmX404 issued server command: /clone -134 81 894 -268 76 939 ~ ~ ~
-[03:45:51] [Server thread/INFO]: AdytmX404 issued server command: /clone -134 81 894 -268 76 939 ~ ~ ~ replace
-[03:46:04] [Server thread/INFO]: AdytmX404 issued server command: /clone -134 81 894 -268 76 939 ~ ~ ~ replace force
-[03:46:22] [Server thread/INFO]: AdytmX404 issued server command: /clone -189
-[03:46:31] [Server thread/INFO]: AdytmX404 issued server command: /clone -189 72 905
-[03:46:39] [Server thread/INFO]: AdytmX404 issued server command: /clone -189 72 905 -130 70 897
-[03:46:49] [Server thread/INFO]: AdytmX404 issued server command: /clone -189 72 905 -130 70 897 ~ ~ ~ replace force
-[03:47:13] [Server thread/INFO]: AdytmX404 issued server command: /clone -189 72 905 -130 70 897 ~ ~ ~ replace normal
-[03:47:51] [Server thread/INFO]: AdytmX404 issued server command: /setblock 49
-[03:48:03] [Server thread/INFO]: AdytmX404 issued server command: /setblock 49 74 915 minecraft:glass
-[03:48:25] [Server thread/INFO]: AdytmX404 issued server command: /setblock 49 ~ ~ minecraft:glass
-[03:48:33] [Server thread/INFO]: AdytmX404 issued server command: /tp Shinting
-[03:48:46] [Server thread/INFO]: AdytmX404 issued server command: /tp Shinting
-[03:49:01] [Server thread/INFO]: AdytmX404 issued server command: /gamemode survival
-[03:51:14] [Server thread/INFO]: AdytmX404 issued server command: /advancement grant AdytmX404 everything
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Who is Cutting Onions?]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Oh Shiny]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Very Very Frightening]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Hot Stuff]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Whatever Floats Your Goat!]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Free the End]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Surge Protector]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [A Furious Cocktail]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Best Friends Forever]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Glow and Behold!]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Bring Home the Beacon]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Local Brewery]
-[03:51:14] [Server thread/INFO]: AdytmX404 has reached the goal [The Next Generation]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Hot Tourist Destinations]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Caves & Cliffs]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [This Boat Has Legs]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Sniper Duel]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Great View From Up Here]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [How Did We Get Here?]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Bullseye]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Spooky Scary Skeleton]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Two by Two]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Two Birds, One Arrow]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [We Need to Go Deeper]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Who's the Pillager Now?]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Light as a Rabbit]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Tactical Fishing]
-[03:51:14] [Server thread/INFO]: AdytmX404 has reached the goal [Zombie Doctor]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [The City at the End of the Game]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Remote Getaway]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Into Fire]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [War Pigs]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Take Aim]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Total Beelocation]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Arbalistic]
-[03:51:14] [Server thread/INFO]: AdytmX404 has reached the goal [The End... Again...]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Not Quite "Nine" Lives]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Cover Me with Diamonds]
-[03:51:14] [Server thread/INFO]: AdytmX404 has reached the goal [Sky's the Limit]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Wax Off]
-[03:51:14] [Server thread/INFO]: AdytmX404 has reached the goal [Hired Help]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Return to Sender]
-[03:51:14] [Server thread/INFO]: AdytmX404 has reached the goal [You Need a Mint]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Monsters Hunted]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Enchanter]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Voluntary Exile]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Eye Spy]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Is It a Bird?]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Serious Dedication]
-[03:51:14] [Server thread/INFO]: AdytmX404 has reached the goal [Postmortal]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Adventuring Time]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [A Seedy Place]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Those Were the Days]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [The Cutest Predator]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Is It a Plane?]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Feels like home]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Star Trader]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Wax On]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Sound of Music]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Hero of the Village]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Hidden in the Depths]
-[03:51:14] [Server thread/INFO]: AdytmX404 has reached the goal [Beaconator]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Withering Heights]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [A Balanced Diet]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Subspace Bubble]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Country Lode, Take Me Home]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Bee Our Guest]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [What a Deal!]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Is It a Balloon?]
-[03:51:14] [Server thread/INFO]: AdytmX404 has completed the challenge [Uneasy Alliance]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Diamonds!]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [The Healing Power of Friendship!]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [A Terrible Fortress]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [A Throwaway Joke]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Sticky Situation]
-[03:51:14] [Server thread/INFO]: AdytmX404 has made the advancement [Ol' Betsy]
-[03:51:15] [Server thread/INFO]: AdytmX404 has completed the challenge [Cover Me in Debris]
-[03:51:15] [Server thread/INFO]: AdytmX404 has made the advancement [The End?]
-[03:51:15] [Server thread/INFO]: AdytmX404 has made the advancement [The Parrots and the Bats]
-[03:51:15] [Server thread/INFO]: AdytmX404 has completed the challenge [A Complete Catalogue]
-[03:51:34] [Server thread/INFO]: AdytmX404 lost connection: Disconnected
-[03:51:34] [Server thread/INFO]: AdytmX404 left the game
-[03:55:58] [Server thread/INFO]: mars[/125.166.8.79:23099] logged in with entity id 73516 at ([world]58.5, 65.0, 375.5)
-[03:56:23] [Server thread/INFO]: mars lost connection: Timed out
-[03:56:23] [Server thread/INFO]: mars left the game
-[03:56:48] [Server thread/INFO]: mars[/125.166.8.79:12871] logged in with entity id 73622 at ([world]58.5, 65.0, 375.5)
-[03:59:18] [Server thread/INFO]: mars lost connection: Disconnected
-[03:59:18] [Server thread/INFO]: mars left the game
-[04:01:47] [Server thread/INFO]: Shinting lost connection: Disconnected
-[04:01:47] [Server thread/INFO]: Shinting left the game
-[04:07:44] [Server thread/INFO]: AdytmX404[/36.77.46.228:53531] logged in with entity id 74205 at ([world]74.37089989700074, 67.0, 344.46384677340063)
-[04:08:02] [Server thread/INFO]: AdytmX404 lost connection: Disconnected
-[04:08:02] [Server thread/INFO]: AdytmX404 left the game
-[04:08:25] [Server thread/INFO]: mars[/125.166.8.79:29005] logged in with entity id 74256 at ([world]81.95766967184723, 62.0, 338.6297628518943)
-[04:09:18] [Server thread/INFO]: mars lost connection: Disconnected
-[04:09:18] [Server thread/INFO]: mars left the game
-[04:09:22] [Server thread/INFO]: mars[/125.166.8.79:29706] logged in with entity id 74384 at ([world]66.42365246653442, 68.0, 330.8018471996562)
-[04:10:21] [Server thread/INFO]: mars lost connection: Disconnected
-[04:10:21] [Server thread/INFO]: mars left the game
-[04:49:23] [Server thread/INFO]: Kyouka[/103.108.20.95:25959] logged in with entity id 74554 at ([world]58.5, 65.0, 375.5)
-[04:51:23] [Server thread/INFO]: Kyouka lost connection: Disconnected
-[04:51:23] [Server thread/INFO]: Kyouka left the game
-[05:00:20] [Server thread/INFO]: PENSI[/36.68.8.181:18684] logged in with entity id 74912 at ([world]22.5, 93.0, 1019.5)
-[05:02:50] [Server thread/INFO]: xyzuan[/36.90.60.213:28453] logged in with entity id 75915 at ([world]62.43996573059187, 66.0, 377.56002181222556)
-[05:03:05] [Netty Epoll Server IO #7/INFO]: <PENSI> cok rambut ku keno[m
-[05:03:19] [Netty Epoll Server IO #9/INFO]: <xyzuan> qkkqkq pie polahmu keruan i[m
-[05:03:39] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[05:04:01] [Netty Epoll Server IO #7/INFO]: <PENSI> dikon madep mengguri bgst[m
-[05:04:07] [Netty Epoll Server IO #9/INFO]: <xyzuan> wkwkwkw[m
-[05:04:57] [Netty Epoll Server IO #9/INFO]: <xyzuan> yoh melu ng base[m
-[05:05:03] [Netty Epoll Server IO #7/INFO]: <PENSI> iwangi motong kayu[m
-[05:05:19] [Netty Epoll Server IO #9/INFO]: <xyzuan> y[m
-[05:05:19] [Netty Epoll Server IO #7/INFO]: <PENSI> kui o kapk[m
-[05:05:59] [Netty Epoll Server IO #7/INFO]: <PENSI> lebok o kne[m
-[05:06:02] [Netty Epoll Server IO #7/INFO]: <PENSI> sek[m
-[05:06:09] [Server thread/INFO]: xyzuan issued server command: /kill xyzuan
-[05:06:09] [Server thread/INFO]: xyzuan fell out of the world
-[05:06:16] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[05:06:24] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[05:07:15] [Netty Epoll Server IO #7/INFO]: <PENSI> kayune lebok o chest[m
-[05:08:09] [Netty Epoll Server IO #9/INFO]: <xyzuan> nyapo we[m
-[05:08:14] [Netty Epoll Server IO #7/INFO]: <PENSI> dilut enek tamu[m
-[05:08:42] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:oak_log 99
-[05:09:12] [Netty Epoll Server IO #7/INFO]: <PENSI> turu sek ben isuk[m
-[05:09:19] [Netty Epoll Server IO #7/INFO]: <PENSI> cah asu kokwokokokookkow[m
-[05:09:27] [Netty Epoll Server IO #9/INFO]: <xyzuan> wkwkwk[m
-[05:14:58] [Netty Epoll Server IO #7/INFO]: <PENSI> ojo di gaek sek cokkkkk iku ape tak gae omah[m
-[05:15:38] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:oak_log 99
-[05:16:07] [Netty Epoll Server IO #7/INFO]: <PENSI> ojo cheat bangke[m
-[05:16:16] [Netty Epoll Server IO #9/INFO]: <xyzuan> wkwkkw[m
-[05:20:04] [Server thread/INFO]: xyzuan was slain by Drowned
-[05:20:21] [Netty Epoll Server IO #7/INFO]: <PENSI> turu[m
-[05:20:32] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch 99
-[05:21:31] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:iron_pickaxe
-[05:21:31] [Server thread/INFO]: xyzuan has made the advancement [Isn't It Iron Pick]
-[05:21:59] [Netty Epoll Server IO #7/INFO]: <PENSI> kosek malah elek elekk i panggon ku kntl[m
-[05:22:07] [Server thread/INFO]: PENSI was slain by xyzuan
-[05:22:07] [Server thread/INFO]: xyzuan has made the advancement [Suit Up]
-[05:22:36] [Netty Epoll Server IO #7/INFO]: <PENSI> item ku lebok o chest[m
-[05:23:22] [Netty Epoll Server IO #7/INFO]: <PENSI> ben isuk[m
-[05:23:35] [Server thread/INFO]: xyzuan issued server command: /time set day
-[05:24:06] [Netty Epoll Server IO #9/INFO]: <xyzuan> melu aku yoh[m
-[05:24:14] [Netty Epoll Server IO #9/INFO]: <xyzuan> apal nggone iki ra[m
-[05:24:17] [Netty Epoll Server IO #7/INFO]: <PENSI> nandi[m
-[05:24:24] [Netty Epoll Server IO #7/INFO]: <PENSI> ora :v[m
-[05:24:30] [Server thread/INFO]: xyzuan issued server command: /tp
-[05:24:35] [Server thread/INFO]: xyzuan issued server command: /tp -142.10 64.00
-[05:24:40] [Server thread/INFO]: xyzuan issued server command: /tp -142.16 64.00 1154.56
-[05:24:47] [Server thread/INFO]: xyzuan issued server command: /tp -142.16 64.00 1154.56
-[05:24:48] [Server thread/INFO]: PENSI issued server command: /keepinventory
-[05:24:52] [Server thread/INFO]: PENSI issued server command: /help
-[05:24:53] [Server thread/INFO]: xyzuan issued server command: /tp
-[05:25:00] [Server thread/INFO]: xyzuan issued server command: /tp ~ ~ ~
-[05:25:11] [Server thread/INFO]: xyzuan issued server command: /tp @a
-[05:25:18] [Server thread/INFO]: xyzuan issued server command: /tp ~
-[05:25:37] [Server thread/INFO]: xyzuan issued server command: /teleport ~ ~ ~
-[05:25:45] [Server thread/INFO]: xyzuan issued server command: /teleport
-[05:25:50] [Server thread/INFO]: xyzuan issued server command: /teleport @r
-[05:26:07] [Server thread/INFO]: xyzuan issued server command: /kill xyzuan
-[05:26:07] [Server thread/INFO]: xyzuan fell out of the world
-[05:26:15] [Netty Epoll Server IO #9/INFO]: <xyzuan> cok spawn ku[m
-[05:26:26] [Netty Epoll Server IO #9/INFO]: <xyzuan> kontol lek ku muleh pie iki[m
-[05:28:27] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:oak_log 99
-[05:28:42] [Server thread/INFO]: Griimm0907[/103.154.231.211:61728] logged in with entity id 81648 at ([world]58.5, 65.0, 375.5)
-[05:28:46] [Netty Epoll Server IO #7/INFO]: <PENSI> kek i kayu biasa ae[m
-[05:29:45] [Netty Epoll Server IO #7/INFO]: <PENSI> bedo kayu asu[m
-[05:30:13] [Netty Epoll Server IO #7/INFO]: <PENSI> kosek gae krangka[m
-[05:30:36] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:flint_and_steel
-[05:32:13] [Netty Epoll Server IO #9/INFO]: <xyzuan> ngiwuh" i[m
-[05:32:37] [Netty Epoll Server IO #9/INFO]: <xyzuan> ser ge opo we jane[m
-[05:34:04] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[05:34:17] [Server thread/INFO]: xyzuan issued server command: /teleport Griimm0907
-[05:35:22] [Server thread/INFO]: Griimm0907 lost connection: Timed out
-[05:35:22] [Server thread/INFO]: Griimm0907 left the game
-[05:35:22] [Server thread/WARN]: handleDisconnection() called twice
-[05:35:30] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[05:35:31] [Server thread/INFO]: Griimm0907[/103.154.231.211:61746] logged in with entity id 84068 at ([world]77.44854526945007, 67.0, 312.3816360559441)
-[05:35:56] [Server thread/INFO]: Griimm0907 lost connection: Timed out
-[05:35:56] [Server thread/INFO]: Griimm0907 left the game
-[05:36:09] [Server thread/INFO]: xyzuan was slain by Zombie
-[05:36:29] [Server thread/INFO]: Griimm0907[/103.154.231.211:61755] logged in with entity id 84384 at ([world]77.44854526945007, 67.0, 312.3816360559441)
-[05:36:37] [Server thread/INFO]: xyzuan lost connection: Timed out
-[05:36:37] [Server thread/INFO]: xyzuan left the game
-[05:36:37] [Server thread/WARN]: handleDisconnection() called twice
-[05:36:41] [Server thread/INFO]: xyzuan[/36.90.60.213:28285] logged in with entity id 84542 at ([world]-156.14441568691532, 64.0, 1162.6981171074378)
-[05:36:54] [Server thread/INFO]: Griimm0907 lost connection: Timed out
-[05:36:54] [Server thread/INFO]: Griimm0907 left the game
-[05:37:10] [Server thread/INFO]: Griimm0907[/103.154.231.211:55256] logged in with entity id 84605 at ([world]77.44854526945007, 67.0, 312.3816360559441)
-[05:37:21] [Server thread/INFO]: xyzuan issued server command: /teleport Griimm0907
-[05:37:35] [Server thread/INFO]: Griimm0907 lost connection: Timed out
-[05:37:35] [Server thread/INFO]: Griimm0907 left the game
-[05:37:39] [Server thread/INFO]: xyzuan issued server command: /teleport ~ ~ ~
-[05:37:51] [Server thread/INFO]: PENSI was shot by Skeleton
-[05:37:52] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[05:37:56] [Server thread/INFO]: xyzuan lost connection: Timed out
-[05:37:56] [Server thread/INFO]: xyzuan left the game
-[05:37:58] [Server thread/INFO]: Griimm0907[/103.154.231.211:55260] logged in with entity id 85212 at ([world]77.44854526945007, 67.0, 312.3816360559441)
-[05:38:23] [Server thread/INFO]: Griimm0907 lost connection: Timed out
-[05:38:23] [Server thread/INFO]: Griimm0907 left the game
-[05:38:48] [Server thread/INFO]: Griimm0907[/103.154.231.211:55265] logged in with entity id 85592 at ([world]77.44854526945007, 67.0, 312.3816360559441)
-[05:39:13] [Server thread/INFO]: Griimm0907 lost connection: Timed out
-[05:39:13] [Server thread/INFO]: Griimm0907 left the game
-[05:39:29] [Server thread/INFO]: xyzuan[/36.90.60.213:28434] logged in with entity id 85820 at ([world]-142.32225305434253, 64.0, 1153.4419651471758)
-[05:39:37] [Netty Epoll Server IO #7/INFO]: <PENSI> barang ku cok[m
-[05:39:41] [Server thread/INFO]: Griimm0907[/103.154.231.211:55269] logged in with entity id 85860 at ([world]77.44854526945007, 67.0, 312.3816360559441)
-[05:39:55] [Netty Epoll Server IO #4/INFO]: <xyzuan> opo[m
-[05:40:05] [Netty Epoll Server IO #7/INFO]: <PENSI> barang ku mbok jipok[m
-[05:40:29] [Netty Epoll Server IO #4/INFO]: <xyzuan> wilo[m
-[05:40:37] [Netty Epoll Server IO #7/INFO]: <PENSI> t[m
-[05:41:13] [Server thread/INFO]: xyzuan issued server command: /teleport Griimm0907
-[05:41:47] [Server thread/INFO]: xyzuan issued server command: /tp PENSI
-[05:41:53] [Server thread/INFO]: Griimm0907 fell from a high place
-[05:42:07] [Server thread/INFO]: xyzuan issued server command: /teleport Griimm0907
-[05:42:28] [Server thread/INFO]: xyzuan drowned
-[05:42:34] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['xyzuan'/85820, l='ServerLevel[world]', x=57.49, y=51.40, z=348.78, removed=KILLED](xyzuan at 57.48658103289722,51.40034202560244,348.7776574318336)'
-[05:42:40] [Server thread/INFO]: xyzuan issued server command: /teleport Griimm0907
-[05:42:42] [Server thread/INFO]: Griimm0907 has made the advancement [Stone Age]
-[05:43:23] [Netty Epoll Server IO #4/INFO]: <xyzuan> aku ngeleg[m
-[05:43:36] [Netty Epoll Server IO #7/INFO]: <PENSI> aman ki[m
-[05:43:54] [Server thread/INFO]: xyzuan issued server command: /tp PENSI
-[05:44:04] [Server thread/INFO]: xyzuan issued server command: /tp Griimm0907
-[05:44:54] [Server thread/INFO]: xyzuan issued server command: /tp PENSI xyzuan
-[05:45:20] [Netty Epoll Server IO #7/INFO]: <PENSI> AKU ORA APAL OMAH COK[m
-[05:45:28] [Server thread/INFO]: xyzuan issued server command: /gampang
-[05:45:31] [Netty Epoll Server IO #4/INFO]: <xyzuan> gampang[m
-[05:45:32] [Netty Epoll Server IO #7/INFO]: <PENSI> BALEKNO[m
-[05:45:41] [Netty Epoll Server IO #4/INFO]: <xyzuan> ekplor ro aku sek[m
-[05:47:02] [Netty Epoll Server IO #4/INFO]: <xyzuan> renang sek[m
-[05:47:32] [Server thread/INFO]: Griimm0907 has made the advancement [Getting an Upgrade]
-[05:48:15] [Netty Epoll Server IO #4/INFO]: <xyzuan> nyelem o[m
-[05:48:39] [Server thread/INFO]: xyzuan issued server command: /kill xyzuan
-[05:48:39] [Server thread/INFO]: xyzuan didn't want to live in the same world as PENSI
-[05:48:51] [Server thread/INFO]: xyzuan issued server command: /tp PENSI xyzuan
-[05:49:08] [Server thread/INFO]: kyy_15[/36.75.64.145:10160] logged in with entity id 88555 at ([world]58.5, 65.0, 375.5)
-[05:49:36] [Server thread/INFO]: Griimm0907 was shot by Skeleton
-[05:49:54] [Server thread/INFO]: xyzuan issued server command: /teleport kyy_15
-[05:50:08] [Server thread/INFO]: xyzuan issued server command: /teleport Griimm0907
-[05:51:22] [Server thread/INFO]: Griimm0907 lost connection: Timed out
-[05:51:22] [Server thread/INFO]: Griimm0907 left the game
-[05:51:22] [Server thread/WARN]: handleDisconnection() called twice
-[05:51:29] [Server thread/INFO]: Griimm0907[/103.154.231.211:55333] logged in with entity id 89321 at ([world]-18.86892898847352, 94.0, 333.10552677605665)
-[05:51:40] [Server thread/INFO]: FerZen[/110.136.218.255:29956] logged in with entity id 89389 at ([world]4.5, 74.0, 361.5)
-[05:52:04] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_chestplate
-[05:52:10] [Server thread/INFO]: AdytmX404[/36.77.46.228:50042] logged in with entity id 89574 at ([world]74.37089989700074, 67.0, 344.46384677340063)
-[05:52:12] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_leggings
-[05:52:18] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_horse_armor
-[05:52:26] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_boots
-[05:52:36] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_helmet
-[05:52:40] [Netty Epoll Server IO #9/INFO]: <Griimm0907> cek[m
-[05:52:44] [Netty Epoll Server IO #7/INFO]: <PENSI> oyy[m
-[05:52:49] [Netty Epoll Server IO #4/INFO]: <xyzuan> lapo[m
-[05:53:07] [Netty Epoll Server IO #12/INFO]: <AdytmX404> iron armor w mana anj[m
-[05:53:16] [Netty Epoll Server IO #12/INFO]: <AdytmX404> eh kok ga adaa[m
-[05:53:22] [Netty Epoll Server IO #4/INFO]: <xyzuan> dibawa bima[m
-[05:53:23] [Netty Epoll Server IO #8/INFO]: <kyy_15> ini bebas kah?[m
-[05:53:37] [Netty Epoll Server IO #12/INFO]: <AdytmX404> hamdeh[m
-[05:53:46] [Netty Epoll Server IO #9/INFO]: <Griimm0907> bon[m
-[05:55:04] [Netty Epoll Server IO #7/INFO]: <PENSI> mana ada anjg[m
-[05:55:10] [Netty Epoll Server IO #7/INFO]: <PENSI> zuan bangke[m
-[05:55:15] [Netty Epoll Server IO #4/INFO]: <xyzuan> tadi kau buka peti si ogya njeng[m
-[05:55:21] [Netty Epoll Server IO #7/INFO]: <PENSI> rumah ku di bakar[m
-[05:55:23] [Server thread/INFO]: kyy_15 lost connection: Timed out
-[05:55:23] [Server thread/INFO]: kyy_15 left the game
-[05:55:36] [Netty Epoll Server IO #4/INFO]: <xyzuan> rumah nya di password bisa ga gya[m
-[05:55:47] [Netty Epoll Server IO #12/INFO]: <AdytmX404> bisa[m
-[05:56:06] [Netty Epoll Server IO #4/INFO]: <xyzuan> passowrd ae[m
-[05:56:07] [Netty Epoll Server IO #7/INFO]: <PENSI> cara keep inv gmn[m
-[05:56:13] [Netty Epoll Server IO #4/INFO]: <xyzuan> bima kang nyolong[m
-[05:57:29] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:torch
-[05:57:59] [Server thread/INFO]: Griimm0907 has made the advancement [Monster Hunter]
-[05:58:57] [Netty Epoll Server IO #4/INFO]: <xyzuan> hayu ku colokin senter[m
-[05:59:17] [Netty Epoll Server IO #4/INFO]: <xyzuan> kang bawa senter[m
-[05:59:26] [Netty Epoll Server IO #7/INFO]: <PENSI> ada yang punya 2 stak kayu log ??? barter ama rock[m
-[05:59:38] [Netty Epoll Server IO #12/INFO]: <AdytmX404> beda shader[m
-[05:59:42] [Netty Epoll Server IO #12/INFO]: <AdytmX404> ga ada efeknya disini[m
-[05:59:46] [Netty Epoll Server IO #4/INFO]: <xyzuan> awowwkkw[m
-[06:00:36] [Netty Epoll Server IO #9/INFO]: <Griimm0907> yuan kamu pake shader apa?[m
-[06:00:45] [Netty Epoll Server IO #4/INFO]: <xyzuan> lexShader[m
-[06:00:51] [Netty Epoll Server IO #7/INFO]: <PENSI> zu coral gua 32 batang mana bangke[m
-[06:00:57] [Netty Epoll Server IO #4/INFO]: <xyzuan> apa ngentod[m
-[06:01:05] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[06:01:23] [Netty Epoll Server IO #7/INFO]: <PENSI> eh udahter nyata di furnace :V[m
-[06:01:28] [Netty Epoll Server IO #4/INFO]: <xyzuan> kont[m
-[06:01:48] [Server thread/INFO]: FerZen lost connection: Disconnected
-[06:01:48] [Server thread/INFO]: FerZen left the game
-[06:03:28] [Server thread/INFO]: FerZen[/110.136.218.255:24956] logged in with entity id 93838 at ([world]68.9016998595679, 59.0, 228.31696247525107)
-[06:03:34] [Netty Epoll Server IO #7/INFO]: <PENSI> apaan bgst[m
-[06:05:02] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
-[06:06:56] [Server thread/INFO]: xyzuan issued server command: /teleport FerZen
-[06:08:47] [Server thread/WARN]: Skipping player strafe phase because no player was found
-[06:09:25] [Server thread/INFO]: xyzuan issued server command: /help
-[06:09:59] [Server thread/INFO]: xyzuan issued server command: /bukkit:help
-[06:10:17] [Server thread/INFO]: Griimm0907 has made the advancement [Sweet Dreams]
-[06:10:42] [Server thread/INFO]: xyzuan issued server command: /minecraft:scoreboard objectives setdisplay list
-[06:11:27] [Server thread/INFO]: PENSI issued server command: /gamerule keepinventory true
-[06:11:43] [Netty Epoll Server IO #7/INFO]: <PENSI> zu keep inventory mau ke sana aku[m
-[06:13:09] [Server thread/INFO]: xyzuan issued server command: /teleport Griimm0907
-[06:13:51] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[06:14:39] [Server thread/INFO]: xyzuan issued server command: /teleport FerZen
-[06:15:03] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:diamond_sword
-[06:16:10] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:bread
-[06:16:22] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:dragon_breath 99
-[06:16:22] [Server thread/INFO]: xyzuan has reached the goal [You Need a Mint]
-[06:19:50] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:dirt 99
-[06:20:10] [Server thread/INFO]: xyzuan fell from a high place
-[06:20:24] [Server thread/INFO]: xyzuan issued server command: /teleport FerZen
-[06:21:00] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[06:21:15] [Netty Epoll Server IO #4/INFO]: <xyzuan> heloo[m
-[06:21:31] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:tnt 99
-[06:21:43] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:flint_and_steel
-[06:21:46] [Netty Epoll Server IO #7/INFO]: <PENSI> oyyy[m
-[06:22:14] [Server thread/INFO]: AdytmX404 issued server command: /tp FerZen
-[06:22:52] [Server thread/INFO]: xyzuan was blown up by xyzuan
-[06:23:56] [Server thread/INFO]: xyzuan issued server command: /teleport PENSI
-[06:24:43] [Server thread/INFO]: AdytmX404 issued server command: /tp FerZen
-[06:24:46] [Server thread/INFO]: AdytmX404 tried to swim in lava to escape FerZen
-[06:25:10] [Server thread/INFO]: AdytmX404 issued server command: /tp FerZen
-[06:25:23] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:horse_spawn_egg 10
-[06:25:50] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:apple
-[06:25:55] [Netty Epoll Server IO #7/INFO]: <PENSI> napa ada banyak kuda bgsttttttttt[m
-[06:26:05] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:apple 99
-[06:26:30] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:candle
-[06:26:47] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:saddle
-[06:27:09] [Server thread/INFO]: PENSI has made the advancement [Best Friends Forever]
-[06:27:49] [Netty Epoll Server IO #7/INFO]: <PENSI> shadle e weh o aku ah[m
-[06:27:57] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:saddle
-[06:28:08] [Netty Epoll Server IO #7/INFO]: <PENSI> mudun o[m
-[06:28:17] [Netty Epoll Server IO #7/INFO]: <PENSI> shit[m
-[06:28:20] [Server thread/INFO]: FerZen has made the advancement [Diamonds!]
-[06:28:45] [Server thread/INFO]: xyzuan has made the advancement [Best Friends Forever]
-[06:29:13] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:saddle
-[06:29:21] [Netty Epoll Server IO #4/INFO]: <xyzuan> pie iku[m
-[06:29:28] [Netty Epoll Server IO #7/INFO]: <PENSI> pencet e[m
-[06:29:49] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:soul_torch
-[06:30:16] [Server thread/INFO]: xyzuan issued server command: /teleport FerZen
-[06:30:41] [Netty Epoll Server IO #7/INFO]: <PENSI> dah dulu capek lanjut nanti[m
-[06:30:43] [Server thread/INFO]: PENSI lost connection: Disconnected
-[06:30:43] [Server thread/INFO]: PENSI left the game
-[06:31:09] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:flint_and_steel
-[06:31:22] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:candle 99
-[06:31:57] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
-[06:32:23] [Server thread/INFO]: xyzuan issued server command: /give XYZUAN minecraft:pig_spawn_egg 10
-[06:32:42] [Server thread/INFO]: xyzuan issued server command: /kill
-[06:32:42] [Server thread/INFO]: xyzuan fell out of the world
-[06:33:47] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:soul_sand
-[06:35:41] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:obsidian
-[06:42:13] [Server thread/INFO]: AdytmX404 issued server command: /tp FerZen
-[06:43:14] [Server thread/INFO]: xyzuan lost connection: Disconnected
-[06:43:14] [Server thread/INFO]: xyzuan left the game
-[06:43:21] [Server thread/INFO]: xyHUMAN[/125.166.1.143:14367] logged in with entity id 111844 at ([world]59.5669218777088, 65.0, 376.3359518682674)
-[06:43:56] [Server thread/INFO]: AdytmX404 lost connection: Disconnected
-[06:43:56] [Server thread/INFO]: AdytmX404 left the game
-[06:44:08] [Server thread/INFO]: FerZen lost connection: Disconnected
-[06:44:08] [Server thread/INFO]: FerZen left the game
-[06:44:23] [Server thread/INFO]: Griimm0907 lost connection: Disconnected
-[06:44:23] [Server thread/INFO]: Griimm0907 left the game
-[06:44:37] [Server thread/INFO]: xyHUMAN lost connection: Disconnected
-[06:44:37] [Server thread/INFO]: xyHUMAN left the game
-[06:45:22] [Server thread/INFO]: Stopping the server
-[06:45:22] [Server thread/INFO]: Stopping server
-[06:45:22] [Server thread/INFO]: Saving players
-[06:45:22] [Server thread/INFO]: Saving worlds
-[06:45:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:45:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[06:45:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[06:45:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:45:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:45:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:45:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:56:29] [Server thread/INFO]: /125.163.127.48:64651 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received string length is longer than maximum allowed (32 > 16)
+[03:04:27] [Server thread/INFO]: AdytmX404[/36.77.46.228:61757] logged in with entity id 218313 at ([world]75.72912654313436, 64.0, 344.0653527261697)
+[03:04:50] [Server thread/INFO]: Deutschlands[/125.163.127.48:61998] logged in with entity id 218416 at ([world]58.5, 65.0, 375.5)
+[03:05:06] [Server thread/INFO]: <AdytmX404> wew[m
+[03:05:10] [Server thread/INFO]: Deutschlands lost connection: The password was incorrect!
+[03:05:10] [Server thread/INFO]: Deutschlands left the game
+[03:05:15] [Server thread/INFO]: Deutschlands[/125.163.127.48:62000] logged in with entity id 218542 at ([world]58.5, 65.0, 375.5)
+[03:05:26] [Server thread/INFO]: <Deutschlands> hello[m
+[03:05:30] [Server thread/INFO]: <AdytmX404> halo[m
+[03:05:33] [Server thread/INFO]: <Deutschlands> Führer des großen Deutschlands[m
+[03:05:35] [Server thread/INFO]: <AdytmX404> siapa nih[m
+[03:05:42] [Server thread/INFO]: <Deutschlands> anak kelas J[m
+[03:06:46] [Server thread/INFO]: <Deutschlands> udah buat apa aja?[m
+[03:10:31] [Server thread/INFO]: Deutschlands has made the advancement [Stone Age]
+[03:12:48] [Server thread/INFO]: Deutschlands has made the advancement [Monster Hunter]
+[03:15:07] [Server thread/INFO]: Deutschlands has made the advancement [Getting an Upgrade]
+[03:18:48] [Server thread/INFO]: Deutschlands has made the advancement [Fishy Business]
+[03:25:50] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[03:25:59] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[03:27:22] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[03:29:46] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[03:32:32] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[03:40:22] [Server thread/INFO]: <Deutschlands> gaada shield kah?[m
+[03:40:32] [Server thread/INFO]: <AdytmX404> cuma 1[m
+[03:40:32] [Server thread/INFO]: xyzuan[/36.90.60.213:28388] logged in with entity id 226868 at ([world]57.22559392955303, 71.6564747364814, 370.8118588794761)
+[03:40:45] [Server thread/INFO]: <AdytmX404> bikin aja pake iron sama wood[m
+[03:40:55] [Server thread/INFO]: <Deutschlands> oke[m
+[03:41:00] [Server thread/INFO]: <xyzuan> dmna ender nya[m
+[03:41:07] [Server thread/INFO]: <AdytmX404> entah[m
+[03:41:16] [Server thread/INFO]: <AdytmX404> tadi ada witcher[m
+[03:42:35] [Server thread/INFO]: xyzuan issued server command: /kill @e[type=EnderDragon,r=100]
+[03:42:42] [Server thread/INFO]: Deutschlands was shot by Skeleton
+[03:43:19] [Server thread/INFO]: xyzuan issued server command: /kill @e[type=minecraft:ender_dragon,r=100]
+[03:43:24] [Server thread/INFO]: xyzuan issued server command: /kill @e[type=minecraft:ender_dragon]
+[03:43:30] [Server thread/INFO]: xyzuan issued server command: /kill @e[type=minecraft:ender_dragon]
+[03:44:07] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:23] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:25] [Server thread/INFO]: xyzuan issued server command: /teleport ender_dragon
+[03:44:31] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:37] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:39] [Server thread/INFO]: xyzuan issued server command: /time set day
+[03:44:41] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:43] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:44] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:45] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:45] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:46] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:44:47] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 70.28 67.69 346.31
+[03:45:12] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt
+[03:45:18] [Server thread/INFO]: xyzuan issued server command: /weather clear
+[03:45:36] [Server thread/INFO]: <xyzuan> mana dah si ender niw[m
+[03:45:43] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:46:16] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:46:18] [Server thread/INFO]: xyzuan issued server command: /kill @e[type=ender_dragon]
+[03:46:27] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:46:34] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:46:42] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:46:48] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:46:54] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:47:09] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
+[03:47:12] [Server thread/INFO]: <AdytmX404> bikin if player die summon lightning[m
+[03:47:15] [Server thread/INFO]: <AdytmX404> bikin if player die summon lightning[m
+[03:47:19] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:47:33] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:47:37] [Server thread/INFO]: xyzuan lost connection: Timed out
+[03:47:37] [Server thread/INFO]: xyzuan left the game
+[03:48:49] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 58.43 65.00 375.41
+[03:48:55] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 41.51 54.00 376.31
+[03:48:58] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 41.51 54.00 376.31
+[03:49:05] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 41.51 54.00 376.31
+[03:49:33] [Server thread/INFO]: xyzuan[/36.90.60.213:28327] logged in with entity id 229622 at ([world]60.64050794467398, 64.62309583706633, 360.9543295430303)
+[03:49:59] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 74.68 71.00 344.54
+[03:50:08] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 74.68 71.00 344.54
+[03:50:19] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 74.68 71.00 344.54
+[03:50:23] [Server thread/INFO]: xyzuan lost connection: Timed out
+[03:50:23] [Server thread/INFO]: xyzuan left the game
+[03:50:27] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 74.68 71.00 344.54
+[03:50:44] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:bat 74.68 71.00 344.54
+[03:51:23] [Server thread/INFO]: <Deutschlands> ini ga di bikin ada koordinat?[m
+[03:51:35] [Server thread/INFO]: <AdytmX404> command block blm on[m
+[03:52:03] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:arrow 74.68 71.00 344.54
+[03:52:25] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:egg 74.68 71.00 344.54
+[03:52:42] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:fireball 76.44 72.60 348.38
+[03:52:50] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:fireball 74.49 72.47 348.38
+[03:52:56] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:fireball 72.50 72.53 348.38
+[03:53:03] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:fireball 70.54 72.63 348.45
+[03:57:41] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:bat 35.57 69.00 321.58
+[03:57:52] [Server thread/INFO]: MaouYunaaa[/125.167.56.62:14507] logged in with entity id 232524 at ([world]58.5, 65.0, 375.5)
+[03:58:00] [Server thread/INFO]: <AdytmX404> siapa tuh[m
+[03:58:19] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:creeper
+[03:58:21] [Server thread/INFO]: AdytmX404 was blown up by Creeper
+[03:58:31] [Server thread/INFO]: <Deutschlands> ini difficultynya apaan dah?[m
+[03:58:45] [Server thread/INFO]: <AdytmX404> normal[m
+[03:59:30] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:creeper 35.57 69.00 321.58
+[03:59:38] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 35.57 69.00 321.58
+[04:00:04] [Server thread/INFO]: Deutschlands was slain by Zombie
+[04:00:14] [Server thread/INFO]: <Deutschlands> kampret lh[m
+[04:00:26] [Server thread/INFO]: <AdytmX404> aowkoakw[m
+[04:01:36] [Server thread/INFO]: <MaouYunaaa> pinjem craft table ;V[m
+[04:01:45] [Server thread/INFO]: <AdytmX404> ok[m
+[04:05:47] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:creeper 45.43 73.00 324.62
+[04:06:07] [Server thread/INFO]: <AdytmX404> .........[m
+[04:06:18] [Server thread/INFO]: <Deutschlands> sorry2[m
+[04:06:37] [Server thread/INFO]: <MaouYunaaa> sorry sorry[m
+[04:06:45] [Server thread/INFO]: <AdytmX404> hamdeh[m
+[04:06:51] [Server thread/INFO]: <AdytmX404> ok lah[m
+[04:07:06] [Server thread/INFO]: MaouYunaaa has made the advancement [Stone Age]
+[04:07:17] [Server thread/INFO]: MaouYunaaa has made the advancement [Getting an Upgrade]
+[04:09:38] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:creeper 43.38 74.00 324.61
+[04:09:56] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 43.38 74.00 324.61
+[04:11:20] [Server thread/WARN]: MaouYunaaa moved too quickly! -4.29010899443157,-1.8338907390617862,-8.935130028072479
+[04:12:22] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:creeper 43.38 74.00 324.61
+[04:12:24] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 43.38 74.00 324.61
+[04:13:38] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:skeleton_horse 43.36 74.00 320.56
+[04:14:29] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:wither_skeleton 43.36 74.00 320.56
+[04:14:52] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:skeleton 43.36 74.00 320.56
+[04:17:00] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:zombie_villager 43.42 74.00 328.75
+[04:17:06] [Server thread/INFO]: <MaouYunaaa> M[m
+[04:17:51] [Server thread/INFO]: Perkedell[/36.75.10.53:33363] logged in with entity id 236731 at ([world]-146.43822056233094, 64.0, 1156.2627398502689)
+[04:19:18] [Server thread/INFO]: xyzuan[/36.90.60.213:28432] logged in with entity id 237911 at ([world]60.64050794467398, 64.62309583706633, 360.9543295430303)
+[04:20:18] [Server thread/INFO]: xyzuan lost connection: Yon don't entered any password!
+[04:20:18] [Server thread/INFO]: xyzuan left the game
+[04:20:26] [Server thread/INFO]: xyzuan[/36.90.60.213:28440] logged in with entity id 238532 at ([world]60.64050794467398, 64.62309583706633, 360.9543295430303)
+[04:20:44] [Server thread/INFO]: <xyzuan> bantuin cari ender[m
+[04:20:55] [Server thread/INFO]: xyzuan issued server command: /time set day
+[04:20:59] [Server thread/INFO]: <AdytmX404> wait[m
+[04:21:04] [Server thread/INFO]: xyzuan issued server command: /weather clear
+[04:21:16] [Server thread/INFO]: <xyzuan> ender klo pagi keliatan kan[m
+[04:21:20] [Server thread/INFO]: <MaouYunaaa> baru join njerr cari item dulu[m
+[04:23:25] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:zombified_piglin 43.42 74.00 328.75
+[04:25:07] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:creeper 43.65 74.00 324.51
+[04:25:18] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 43.65 74.00 324.51
+[04:25:23] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
+[04:25:34] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:creeper 43.65 74.00 324.51
+[04:25:39] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt 43.65 74.00 324.51
+[04:25:45] [Server thread/INFO]: <Deutschlands> wah[m
+[04:25:47] [Server thread/INFO]: <Deutschlands> disini ender[m
+[04:25:56] [Server thread/INFO]: Perkedell lost connection: Disconnected
+[04:25:56] [Server thread/INFO]: Perkedell left the game
+[04:26:05] [Server thread/INFO]: Perkedell[/36.75.10.53:33465] logged in with entity id 242933 at ([world]-19.807632481359786, 67.0, 952.1112846387505)
+[04:26:10] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:creeper 43.65 74.00 324.51
+[04:27:09] [Server thread/INFO]: Perkedell lost connection: Disconnected
+[04:27:09] [Server thread/INFO]: Perkedell left the game
+[04:28:05] [Server thread/INFO]: xyzuan issued server command: /teleport Deutschlands
+[04:28:31] [Server thread/INFO]: <xyzuan> mana[m
+[04:28:45] [Server thread/INFO]: <Deutschlands> tadi terbang di sekitar sini[m
+[04:28:54] [Server thread/INFO]: <Deutschlands> arah pulau ini[m
+[04:29:04] [Server thread/INFO]: AdytmX404 issued server command: /gamemode creative
+[04:29:07] [Server thread/INFO]: <xyzuan> oiya ini[m
+[04:29:14] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:29:17] [Server thread/INFO]: MaouYunaaa was impaled by Drowned
+[04:29:53] [Server thread/INFO]: <xyzuan> ikutin dlu gya[m
+[04:29:53] [Server thread/INFO]: Deutschlands was blown up by Creeper
+[04:30:18] [Server thread/INFO]: xyzuan issued server command: /kill @e[type=minecraft:ender_dragon]
+[04:30:32] [Server thread/INFO]: <xyzuan> DONE[m
+[04:30:45] [Server thread/INFO]: <AdytmX404> wah[m
+[04:31:07] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:10] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:15] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:18] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:22] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:28] [Server thread/INFO]: AdytmX404 issued server command: /
+[04:31:31] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:34] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:38] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:40] [Server thread/INFO]: <xyzuan> njir[m
+[04:31:42] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:45] [Server thread/INFO]: <xyzuan> kebakaran[m
+[04:31:51] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:31:55] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:32:01] [Server thread/INFO]: xyzuan issued server command: /summon minecraft:lightning_bolt
+[04:32:25] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~ 10
+[04:32:32] [Server thread/INFO]: <xyzuan> sudah aman gays yah[m
+[04:32:35] [Server thread/INFO]: AdytmX404 issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:32:50] [Server thread/INFO]: AdytmX404 issued server command: /time set day
+[04:32:56] [Server thread/INFO]: AdytmX404 issued server command: /weather clear
+[04:33:14] [Server thread/INFO]: AdytmX404 issued server command: /locate mansion
+[04:33:25] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan 640 ~ 3072
+[04:33:30] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:33:32] [Server thread/INFO]: xyzuan has completed the challenge [Cover Me in Debris]
+[04:33:51] [Server thread/INFO]: <xyzuan> rumah siapa cok[m
+[04:34:02] [Server thread/INFO]: <AdytmX404> rumah villager[m
+[04:34:15] [Server thread/INFO]: <AdytmX404> pintu di bawah[m
+[04:34:27] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan ~ ~ ~
+[04:34:29] [Server thread/INFO]: <MaouYunaaa> zu server kasih mod boss[m
+[04:34:40] [Server thread/INFO]: xyzuan issued server command: /gelap kali
+[04:34:44] [Server thread/INFO]: <xyzuan> gelap kali[m
+[04:35:44] [Server thread/INFO]: <xyzuan> ini jauh ngga sama base[m
+[04:35:51] [Server thread/INFO]: <AdytmX404> jauh[m
+[04:36:57] [Server thread/INFO]: <xyzuan> balok ny ga bisa diancurin ye[m
+[04:37:10] [Server thread/INFO]: <xyzuan> eh bisa[m
+[04:37:35] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
+[04:37:46] [Server thread/INFO]: <AdytmX404> cari tempat lain?[m
+[04:37:50] [Server thread/INFO]: <xyzuan> gas[m
+[04:37:50] [Server thread/INFO]: MaouYunaaa drowned
+[04:38:00] [Server thread/INFO]: AdytmX404 issued server command: /locate ocean_ruin
+[04:38:13] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan 976 ~ 2384
+[04:38:16] [Server thread/WARN]: MaouYunaaa moved too quickly! 10.413111752068957,1.1212968405392019,-0.9176537817936037
+[04:38:17] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:38:43] [Server thread/INFO]: Villager EntityVillager['Villager'/249382, l='ServerLevel[world]', x=1098.72, y=68.00, z=2334.63] died, message: 'Villager suffocated in a wall'
+[04:38:46] [Server thread/INFO]: <AdytmX404> wew[m
+[04:38:49] [Server thread/INFO]: <AdytmX404> bagus nihw[m
+[04:38:54] [Server thread/INFO]: Villager EntityVillager['Villager'/249208, l='ServerLevel[world]', x=1033.64, y=67.00, z=2390.30] died, message: 'Villager was slain by Zombie'
+[04:38:59] [Server thread/INFO]: <xyzuan> reneo gya[m
+[04:39:04] [Server thread/INFO]: MaouYunaaa lost connection: Disconnected
+[04:39:04] [Server thread/INFO]: MaouYunaaa left the game
+[04:39:05] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:39:29] [Server thread/INFO]: <xyzuan> wkwkw[m
+[04:39:31] [Server thread/INFO]: Villager EntityVillager['Shepherd'/249202, l='ServerLevel[world]', x=1033.93, y=67.00, z=2385.42] died, message: 'Shepherd was slain by Zombie'
+[04:39:46] [Server thread/INFO]: AdytmX404 issued server command: /locate jungle_pyramid
+[04:40:01] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan 1152 ~ 1152
+[04:40:04] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:40:21] [Server thread/INFO]: <AdytmX404> awas[m
+[04:40:24] [Server thread/INFO]: <AdytmX404> ada jebakannya[m
+[04:40:26] [Server thread/INFO]: <AdytmX404> bisa meledak[m
+[04:41:11] [Server thread/INFO]: <AdytmX404> ij[m
+[04:41:14] [Server thread/INFO]: <AdytmX404> ada tali[m
+[04:41:18] [Server thread/INFO]: <xyzuan> mana[m
+[04:42:21] [Server thread/INFO]: AdytmX404 issued server command: /locate jungle_pyramid
+[04:42:30] [Server thread/INFO]: xyzuan issued server command: /give te
+[04:42:39] [Server thread/INFO]: AdytmX404 issued server command: /locate jungle_pyramid
+[04:42:53] [Server thread/INFO]: AdytmX404 issued server command: /locate igloo
+[04:43:12] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan -768 ~ 2368
+[04:43:18] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:43:18] [Server thread/INFO]: <xyzuan> anying meledak[m
+[04:43:33] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
+[04:43:51] [Server thread/INFO]: AdytmX404 issued server command: /locate endcity
+[04:44:32] [Server thread/INFO]: AdytmX404 issued server command: /locate monument
+[04:44:45] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan -1344 ~ 1200
+[04:44:49] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:45:05] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:45:16] [Server thread/INFO]: <xyzuan> melbuo[m
+[04:45:29] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan ~ ~ ~
+[04:45:33] [Server thread/INFO]: <AdytmX404> pintu sini anj[m
+[04:45:42] [Server thread/INFO]: <xyzuan> wkwkw[m
+[04:46:08] [Server thread/INFO]: <AdytmX404> boss nya[m
+[04:46:12] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan ~ ~ ~
+[04:46:20] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:46:26] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:47:20] [Server thread/INFO]: AdytmX404 issued server command: /time set day
+[04:47:30] [Server thread/INFO]: AdytmX404 issued server command: /locate mineshaft
+[04:47:31] [Server thread/INFO]: <xyzuan> ga bisa diledakin annyink[m
+[04:47:45] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan -1328 ~ 1072
+[04:47:48] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan ~ ~ ~
+[04:47:51] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan -1328 ~ 1072
+[04:47:56] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:48:08] [Server thread/INFO]: <AdytmX404> lah mana[m
+[04:48:36] [Server thread/INFO]: AdytmX404 issued server command: /locate shipwreck
+[04:48:42] [Server thread/INFO]: <xyzuan> server nya yg lw pesen udah blmw[m
+[04:48:46] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan -1920 ~ 592
+[04:48:49] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan
+[04:49:12] [Server thread/INFO]: <AdytmX404> ini ram brp[m
+[04:49:16] [Server thread/INFO]: <xyzuan> 32[m
+[04:49:28] [Server thread/INFO]: <xyzuan> 18 core[m
+[04:49:51] [Server thread/INFO]: xyzuan issued server command: /teleport AdytmX404
+[04:49:55] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:49:58] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:50:42] [Server thread/INFO]: <xyzuan> ntar mo makan w[m
+[04:50:48] [Server thread/INFO]: <AdytmX404> ok[m
+[04:50:54] [Server thread/INFO]: AdytmX404 issued server command: /tp Deutschlands
+[04:51:00] [Server thread/INFO]: AdytmX404 issued server command: /tp xyzuan ~ ~ ~
+[04:51:00] [Server thread/INFO]: xyzuan issued server command: /teleport Deutschlands
+[04:51:08] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:51:24] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:51:29] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:51:30] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[04:52:05] [Server thread/INFO]: AdytmX404 lost connection: Disconnected
+[04:52:05] [Server thread/INFO]: AdytmX404 left the game
+[05:02:00] [Server thread/INFO]: Deutschlands lost connection: Disconnected
+[05:02:00] [Server thread/INFO]: Deutschlands left the game
+[05:03:22] [Server thread/INFO]: xyHUMAN[/125.166.3.186:21612] logged in with entity id 257807 at ([world]74.24960841536317, 79.0, 315.7058708507228)
+[05:03:34] [Server thread/INFO]: xyHUMAN lost connection: Disconnected
+[05:03:34] [Server thread/INFO]: xyHUMAN left the game
+[05:03:36] [Server thread/INFO]: xyHUMAN[/125.166.3.186:31437] logged in with entity id 257846 at ([world]74.24960841536317, 79.0, 315.7058708507228)
+[05:05:53] [Server thread/INFO]: Shinting[/180.248.36.2:57301] logged in with entity id 258158 at ([world]805.6999999880791, 89.0, 1145.237500011921)
+[05:14:26] [Server thread/INFO]: xyHUMAN lost connection: Disconnected
+[05:14:26] [Server thread/INFO]: xyHUMAN left the game
+[05:23:22] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
+[05:37:41] [Server thread/INFO]: xyzuan issued server command: /teleport Shinting
+[05:38:12] [Server thread/INFO]: xyzuan issued server command: /time set day
+[05:45:08] [Server thread/INFO]: xyzuan issued server command: /tp Shinting xyzuan
+[05:52:37] [Server thread/INFO]: xyzuan lost connection: Timed out
+[05:52:37] [Server thread/INFO]: xyzuan left the game
+[05:52:37] [Server thread/WARN]: handleDisconnection() called twice
+[06:07:01] [Server thread/INFO]: xyzuan[/36.90.60.213:28460] logged in with entity id 267991 at ([world]870.4134844682118, 122.0, 1312.8621914369471)
+[06:08:00] [Server thread/INFO]: Shinting lost connection: Disconnected
+[06:08:00] [Server thread/INFO]: Shinting left the game
+[06:08:00] [Server thread/INFO]: xyzuan lost connection: Yon don't entered any password!
+[06:08:01] [Server thread/INFO]: xyzuan left the game
+[06:24:44] [Server thread/INFO]: xyzuan[/36.90.60.213:28475] logged in with entity id 268110 at ([world]870.4134844682118, 122.0, 1312.8621914369471)
+[06:26:15] [Server thread/INFO]: xyzuan issued server command: /teleport 192 122 1
+[06:26:41] [Server thread/INFO]: <xyzuan> wwawd[m
+[06:27:59] [Server thread/INFO]: xyzuan issued server command: /give xyzuan minecraft:firework_star 99
+[06:29:35] [Server thread/INFO]: xyzuan issued server command: /gamemode survival xyzuan
+[06:30:22] [Server thread/INFO]: xyzuan lost connection: Disconnected
+[06:30:22] [Server thread/INFO]: xyzuan left the game
+[07:03:31] [Server thread/INFO]: AdytmX404[/36.77.46.228:59937] logged in with entity id 270283 at ([world]76.29594944883881, 67.5625, 343.2975667931793)
+[07:03:59] [Server thread/INFO]: AdytmX404 issued server command: /give AdytmX404 minecraft:fishing_rod
+[07:04:11] [Server thread/INFO]: AdytmX404 issued server command: /give AdytmX404 minecraft:elytra
+[07:06:39] [Server thread/INFO]: AdytmX404 issued server command: /w
+[07:07:41] [Server thread/INFO]: AdytmX404 lost connection: Timed out
+[07:07:41] [Server thread/INFO]: AdytmX404 left the game
+[07:07:50] [Server thread/INFO]: AdytmX404[/36.77.46.228:62350] logged in with entity id 272325 at ([world]-228.49034490420178, 75.994691090504, 354.7701643487448)
+[07:10:38] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[07:11:50] [Server thread/INFO]: AdytmX404 issued server command: /locate buried_treasure
+[07:11:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7613ms or 152 ticks behind
+[07:12:17] [Server thread/INFO]: AdytmX404 issued server command: /tp AdytmX404 -983 ~ -151
+[07:13:13] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[07:13:46] [Server thread/INFO]: AdytmX404 issued server command: /locate ruined_portal
+[07:14:06] [Server thread/INFO]: AdytmX404 issued server command: /tp AdytmX404 -10 ~ -624
+[07:14:16] [Server thread/INFO]: AdytmX404 issued server command: /tp AdytmX404 -1056 ~ -624
+[07:18:07] [Server thread/INFO]: AdytmX404 issued server command: /locate endcity
+[07:27:04] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[07:27:04] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[07:29:44] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[07:32:38] [Server thread/INFO]: AdytmX404 lost connection: Disconnected
+[07:32:38] [Server thread/INFO]: AdytmX404 left the game
+[07:39:27] [Server thread/INFO]: xyHUMAN[/125.166.3.186:27288] logged in with entity id 282303 at ([world]9.300000011920929, 87.0, 273.67548962317665)
+[07:42:51] [Server thread/INFO]: xyHUMAN lost connection: Disconnected
+[07:42:51] [Server thread/INFO]: xyHUMAN left the game
+[09:49:07] [Server thread/INFO]: kyy_15[/114.122.232.118:50996] logged in with entity id 282940 at ([world]-137.37942219145955, 64.0, 1153.310701808193)
+[09:58:47] [Server thread/INFO]: suspeople[/114.122.199.25:62152] logged in with entity id 284794 at ([world]58.5, 65.0, 375.5)
+[09:59:16] [Server thread/INFO]: <suspeople> woi[m
+[09:59:23] [Server thread/INFO]: kyy_15 has made the advancement [Not Today, Thank You]
+[10:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5085ms or 101 ticks behind
+[10:00:32] [Server thread/ERROR]: Could not pass event PotionSplashEvent to ServerPassword v1.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callPotionSplashEvent(CraftEventFactory.java:721) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:184) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityPotion.a(EntityPotion.java:116) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.IProjectile.preOnHit(IProjectile.java:160) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.entity.projectile.EntityProjectile.k(EntityProjectile.java:69) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:783) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.World.a(World.java:659) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:370) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294) ~[craftbukkit-1.18.1-R0.1-SNAPSHOT.jar:3361-Bukkit-dad8517]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion cannot be cast to class org.bukkit.entity.Player (org.bukkit.craftbukkit.v1_18_R1.entity.CraftThrownPotion and org.bukkit.entity.Player are in unnamed module of loader java.net.URLClassLoader @2e5d6d97)
+	at me.uncon.ServerPassword.PlayerListener.onPotionSplash(PlayerListener.java:201) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[bukkit-1.18.1-R0.1-SNAPSHOT.jar:?]
+	... 19 more
+[10:00:32] [Server thread/INFO]: kyy_15 was killed by Witch using magic
+[10:05:45] [Server thread/INFO]: suspeople has made the advancement [Sweet Dreams]
+[10:06:52] [Server thread/INFO]: suspeople was slain by Zombie
+[10:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6169ms or 123 ticks behind
+[10:15:11] [Server Watchdog/FATAL]: A single server tick took 60.05 seconds (should be max 0.05)
+[10:15:31] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
