@@ -1,0 +1,484 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 12/14/21, 11:51 AM
+Description: Watching Server
+
+java.lang.Error: Watchdog
+	at java.base@17.0.1/java.util.HashMap$EntrySet.iterator(HashMap.java:1098)
+	at java.base@17.0.1/java.util.AbstractCollection.toArray(AbstractCollection.java:186)
+	at com.google.common.collect.Iterables.toArray(Iterables.java:300)
+	at com.google.common.collect.ImmutableMap.copyOf(ImmutableMap.java:635)
+	at com.google.common.collect.ImmutableMap.copyOf(ImmutableMap.java:620)
+	at net.minecraft.world.level.storage.loot.LootTableInfo.<init>(SourceFile:55)
+	at net.minecraft.world.level.storage.loot.LootTableInfo$Builder.a(SourceFile:217)
+	at net.minecraft.advancements.critereon.CriterionConditionEntity.b(SourceFile:258)
+	at net.minecraft.advancements.critereon.CriterionTriggerAbstract.a(SourceFile:57)
+	at net.minecraft.advancements.critereon.CriterionTriggerEnterBlock.a(SourceFile:44)
+	at net.minecraft.server.level.EntityPlayer.a(EntityPlayer.java:567)
+	at net.minecraft.world.entity.Entity.aI(Entity.java:1097)
+	at net.minecraft.world.entity.Entity.ax(Entity.java:878)
+	at net.minecraft.world.entity.Entity.a(Entity.java:847)
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1165)
+	at net.minecraft.network.protocol.game.PacketPlayInFlying.a(SourceFile:114)
+	at net.minecraft.network.protocol.game.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:42)
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:30)
+	at net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$5556/0x00000008017c8400.run(Unknown Source)
+	at net.minecraft.server.TickTask.run(SourceFile:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:151)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.c(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1115)
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:1)
+	at net.minecraft.util.thread.IAsyncTaskHandler.y(SourceFile:125)
+	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1094)
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1087)
+	at net.minecraft.util.thread.IAsyncTaskHandler.bp(SourceFile:110)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1070)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1002)
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294)
+	at net.minecraft.server.MinecraftServer$$Lambda$4082/0x00000008013d7490.run(Unknown Source)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at java.base@17.0.1/java.util.HashMap$EntrySet.iterator(HashMap.java:1098)
+	at java.base@17.0.1/java.util.AbstractCollection.toArray(AbstractCollection.java:186)
+	at com.google.common.collect.Iterables.toArray(Iterables.java:300)
+	at com.google.common.collect.ImmutableMap.copyOf(ImmutableMap.java:635)
+	at com.google.common.collect.ImmutableMap.copyOf(ImmutableMap.java:620)
+	at net.minecraft.world.level.storage.loot.LootTableInfo.<init>(SourceFile:55)
+	at net.minecraft.world.level.storage.loot.LootTableInfo$Builder.a(SourceFile:217)
+	at net.minecraft.advancements.critereon.CriterionConditionEntity.b(SourceFile:258)
+	at net.minecraft.advancements.critereon.CriterionTriggerAbstract.a(SourceFile:57)
+	at net.minecraft.advancements.critereon.CriterionTriggerEnterBlock.a(SourceFile:44)
+	at net.minecraft.server.level.EntityPlayer.a(EntityPlayer.java:567)
+	at net.minecraft.world.entity.Entity.aI(Entity.java:1097)
+	at net.minecraft.world.entity.Entity.ax(Entity.java:878)
+	at net.minecraft.world.entity.Entity.a(Entity.java:847)
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1165)
+	at net.minecraft.network.protocol.game.PacketPlayInFlying.a(SourceFile:114)
+	at net.minecraft.network.protocol.game.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:42)
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:30)
+	at net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$5556/0x00000008017c8400.run(Unknown Source)
+	at net.minecraft.server.TickTask.run(SourceFile:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:151)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.c(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1115)
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:1)
+	at net.minecraft.util.thread.IAsyncTaskHandler.y(SourceFile:125)
+	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1094)
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1087)
+	at net.minecraft.util.thread.IAsyncTaskHandler.bp(SourceFile:110)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1070)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1002)
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294)
+
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
+	at java.base@17.0.1/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@17.0.1/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+	at java.base@17.0.1/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+
+
+"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@618c6c34
+	at java.base@17.0.1/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@618c6c34
+	at java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.base@17.0.1/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)
+
+
+"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
+
+
+"Notification Thread" daemon prio=9 Id=12 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=13 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@2f2218d2
+	at java.base@17.0.1/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@2f2218d2
+	at java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.1/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+	at java.base@17.0.1/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+
+
+"DestroyJavaVM" prio=5 Id=15 RUNNABLE
+
+
+"Timer hack thread" daemon prio=5 Id=28 TIMED_WAITING
+	at java.base@17.0.1/java.lang.Thread.sleep(Native Method)
+	at net.minecraft.SystemUtils$6.run(SourceFile:803)
+
+
+"NonBlockingInputStreamThread" daemon prio=5 Id=38 WAITING on jline.internal.NonBlockingInputStream@2567a975 owned by "Server console handler" Id=40
+	at java.base@17.0.1/java.lang.Object.wait(Native Method)
+	-  waiting on jline.internal.NonBlockingInputStream@2567a975
+	at jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Server thread" prio=8 Id=36 RUNNABLE
+	at java.base@17.0.1/java.util.HashMap$EntrySet.iterator(HashMap.java:1098)
+	at java.base@17.0.1/java.util.AbstractCollection.toArray(AbstractCollection.java:186)
+	at com.google.common.collect.Iterables.toArray(Iterables.java:300)
+	at com.google.common.collect.ImmutableMap.copyOf(ImmutableMap.java:635)
+	at com.google.common.collect.ImmutableMap.copyOf(ImmutableMap.java:620)
+	at net.minecraft.world.level.storage.loot.LootTableInfo.<init>(SourceFile:55)
+	at net.minecraft.world.level.storage.loot.LootTableInfo$Builder.a(SourceFile:217)
+	at net.minecraft.advancements.critereon.CriterionConditionEntity.b(SourceFile:258)
+	...
+
+
+"TerminalConsoleWriter" daemon prio=8 Id=41 RUNNABLE
+	at java.base@17.0.1/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base@17.0.1/java.lang.ProcessImpl.<init>(ProcessImpl.java:314)
+	at java.base@17.0.1/java.lang.ProcessImpl.start(ProcessImpl.java:244)
+	at java.base@17.0.1/java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	at java.base@17.0.1/java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at java.base@17.0.1/java.lang.Runtime.exec(Runtime.java:594)
+	at java.base@17.0.1/java.lang.Runtime.exec(Runtime.java:453)
+	at jline.internal.TerminalLineSettings.exec(TerminalLineSettings.java:196)
+	...
+
+
+"Server console handler" daemon prio=8 Id=40 RUNNABLE (in native)
+	at java.base@17.0.1/java.io.FileInputStream.readBytes(Native Method)
+	at java.base@17.0.1/java.io.FileInputStream.read(FileInputStream.java:276)
+	at java.base@17.0.1/java.io.BufferedInputStream.fill(BufferedInputStream.java:244)
+	at java.base@17.0.1/java.io.BufferedInputStream.read(BufferedInputStream.java:263)
+	-  locked java.io.BufferedInputStream@4f933a69
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+	-  locked jline.internal.NonBlockingInputStream@2567a975
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+	-  locked jline.internal.NonBlockingInputStream@2567a975
+	...
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=42 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:192)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:185)
+	at io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Java2D Disposer" daemon prio=10 Id=43 WAITING on java.lang.ref.ReferenceQueue$Lock@4a17c1e9
+	at java.base@17.0.1/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@4a17c1e9
+	at java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.desktop@17.0.1/sun.java2d.Disposer.run(Disposer.java:145)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Server Watchdog" daemon prio=8 Id=48 RUNNABLE
+	at java.management@17.0.1/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@17.0.1/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:521)
+	at java.management@17.0.1/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:509)
+	at net.minecraft.server.dedicated.ThreadWatchdog.run(SourceFile:49)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=51 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Worker-Main-24" daemon prio=8 Id=56 TIMED_WAITING on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-25" daemon prio=8 Id=57 WAITING on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-28" daemon prio=8 Id=60 TIMED_WAITING on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-30" daemon prio=8 Id=62 WAITING on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-29" daemon prio=8 Id=61 WAITING on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-27" daemon prio=8 Id=59 WAITING on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=66 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:192)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:185)
+	at io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Worker-Main-33" daemon prio=8 Id=67 TIMED_WAITING on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@754ca4f1
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=71 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:192)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:185)
+	at io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #4" daemon prio=5 Id=75 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:192)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:185)
+	at io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #5" daemon prio=5 Id=77 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #6" daemon prio=5 Id=78 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:192)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:185)
+	at io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"process reaper" daemon prio=10 Id=82 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@6df8972c
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@6df8972c
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #7" daemon prio=5 Id=100 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"IO-Worker-59" prio=8 Id=101 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@3b6ea888
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@3b6ea888
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"IO-Worker-62" prio=8 Id=104 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@3b6ea888
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@3b6ea888
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #8" daemon prio=5 Id=105 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #9" daemon prio=5 Id=106 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:192)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:185)
+	at io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #10" daemon prio=5 Id=107 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"Netty Epoll Server IO #11" daemon prio=5 Id=108 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:192)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:185)
+	at io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"IO-Worker-63" prio=8 Id=109 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@3b6ea888
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@3b6ea888
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+"IO-Worker-64" prio=8 Id=110 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@3b6ea888
+	at java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@3b6ea888
+	at java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+	at java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ThreadWatchdog.run(SourceFile:65)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 4, entities: 789,789,536,2649,2649,0,0 [minecraft:skeleton:89,minecraft:creeper:81,minecraft:zombie:77,minecraft:bat:61,minecraft:item:58], block_entities: 172 [minecraft:mob_spawner:114,minecraft:furnace:21,minecraft:campfire:20,minecraft:beehive:7,minecraft:daylight_detector:4], block_ticks: 12311, fluid_ticks: 319, chunk_source: Chunks[S] W: 9297 E: 786,786,535,2649,2649,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 8,8,8,529,529,0,0 [minecraft:strider:8], block_entities: 0 [], block_ticks: 0, fluid_ticks: 518, chunk_source: Chunks[S] W: 2209 E: 8,8,8,529,529,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0,0,0,529,529,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 2209 E: 0,0,0,529,529,0,0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.1
+	Minecraft Version ID: 1.18.1
+	Operating System: Linux (amd64) version 5.11.0-1023-gcp
+	Java Version: 17.0.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 111003776 bytes (105 MiB) / 1073741824 bytes (1024 MiB) up to 1073741824 bytes (1024 MiB)
+	CPUs: 8
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Xeon(R) CPU @ 2.20GHz
+	Identifier: Intel64 Family 6 Model 79 Stepping 0
+	Microarchitecture: Broadwell (Server)
+	Frequency (GHz): 2.20
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: Virtio SCSI
+	Graphics card #0 vendor: Red Hat, Inc. (0x1af4)
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: 0x1004
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 16052.12
+	Virtual memory used (MB): 8014.90
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	CraftBukkit Information: 
+   Running: CraftBukkit version 3361-Bukkit-dad8517 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) false
+   Plugins: { ServerPassword v1.2* me.uncon.ServerPassword.ServerPassword [],}
+   Warnings: DEFAULT
+   Reload Count: 0
+   Threads: { RUNNABLE Server thread: [io.netty.channel.epoll.Native.eventFdWrite(Native Method), io.netty.channel.epoll.EpollEventLoop.wakeup(EpollEventLoop.java:186), io.netty.util.concurrent.SingleThreadEventExecutor.execute(SingleThreadEventExecutor.java:846), io.netty.util.concurrent.SingleThreadEventExecutor.execute(SingleThreadEventExecutor.java:815), net.minecraft.network.NetworkManager.b(NetworkManager.java:194), net.minecraft.network.NetworkManager.a(NetworkManager.java:174), net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1666), net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1652), net.minecraft.server.level.PlayerChunkMap$EntityTracker.a(PlayerChunkMap.java:1409), net.minecraft.server.level.PlayerChunkMap$EntityTracker.b(PlayerChunkMap.java:1415), net.minecraft.server.level.PlayerChunkMap.b(PlayerChunkMap.java:1289), net.minecraft.server.level.ChunkProviderServer.a(ChunkProviderServer.java:552), net.minecraft.server.level.WorldServer.a(WorldServer.java:1141), net.minecraft.world.entity.animal.EntitySquid.w_(EntitySquid.java:120), net.minecraft.world.entity.EntityLiving.k(EntityLiving.java:2796), net.minecraft.world.entity.EntityInsentient.k(EntityInsentient.java:383), net.minecraft.server.level.WorldServer.a(WorldServer.java:783), net.minecraft.server.level.WorldServer$$Lambda$4817/0x00000008016c0918.accept(Unknown Source), net.minecraft.world.level.World.a(World.java:659), net.minecraft.server.level.WorldServer.lambda$9(WorldServer.java:390), net.minecraft.server.level.WorldServer$$Lambda$4816/0x00000008016c06e0.accept(Unknown Source), net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54), net.minecraft.server.level.WorldServer.a(WorldServer.java:370), net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1240), net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:415), net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1161), net.minecraft.server.MinecraftServer.w(MinecraftServer.java:998), net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:294), net.minecraft.server.MinecraftServer$$Lambda$4082/0x00000008013d7490.run(Unknown Source), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Server console handler: [java.base@17.0.1/java.io.FileInputStream.readBytes(Native Method), java.base@17.0.1/java.io.FileInputStream.read(FileInputStream.java:276), java.base@17.0.1/java.io.BufferedInputStream.fill(BufferedInputStream.java:244), java.base@17.0.1/java.io.BufferedInputStream.read(BufferedInputStream.java:263), jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169), jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137), jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246), jline.internal.InputStreamReader.read(InputStreamReader.java:261), jline.internal.InputStreamReader.read(InputStreamReader.java:198), jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145), jline.console.ConsoleReader.readLine(ConsoleReader.java:2349), net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:127)], TIMED_WAITING Common-Cleaner: [java.base@17.0.1/java.lang.Object.wait(Native Method), java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155), java.base@17.0.1/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140), java.base@17.0.1/java.lang.Thread.run(Thread.java:833), java.base@17.0.1/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)], RUNNABLE Netty Epoll Server IO #9: [io.netty.channel.epoll.Native.epollWait(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:192), io.netty.channel.epoll.Native.epollWait(Native.java:185), io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], WAITING TerminalConsoleWriter: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341), java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506), java.base@17.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463), java.base@17.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434), java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623), java.base@17.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435), com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77), org.bukkit.craftbukkit.v1_18_R1.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:31)], WAITING Worker-Main-29: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341), java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724), java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623), java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)], RUNNABLE Reference Handler: [java.base@17.0.1/java.lang.ref.Reference.waitForReferencePendingList(Native Method), java.base@17.0.1/java.lang.ref.Reference.processPendingReferences(Reference.java:253), java.base@17.0.1/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)], TIMED_WAITING process reaper: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401), java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Server Watchdog: [java.base@17.0.1/java.lang.Thread.dumpThreads(Native Method), java.base@17.0.1/java.lang.Thread.getAllStackTraces(Thread.java:1662), org.bukkit.craftbukkit.v1_18_R1.CraftCrashReport.get(CraftCrashReport.java:33), org.bukkit.craftbukkit.v1_18_R1.CraftCrashReport.get(CraftCrashReport.java:1), net.minecraft.SystemReport.a(SourceFile:65), net.minecraft.CrashReport.<init>(CrashReport.java:35), net.minecraft.server.dedicated.ThreadWatchdog.run(SourceFile:63), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], WAITING Finalizer: [java.base@17.0.1/java.lang.Object.wait(Native Method), java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155), java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176), java.base@17.0.1/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)], RUNNABLE Netty Epoll Server IO #1: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:176), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], TIMED_WAITING Worker-Main-24: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410), java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726), java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623), java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)], RUNNABLE Netty Epoll Server IO #2: [io.netty.channel.epoll.Native.epollWait(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:192), io.netty.channel.epoll.Native.epollWait(Native.java:185), io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], WAITING Worker-Main-27: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341), java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724), java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623), java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)], RUNNABLE DestroyJavaVM: [], RUNNABLE Netty Epoll Server IO #11: [io.netty.channel.epoll.Native.epollWait(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:192), io.netty.channel.epoll.Native.epollWait(Native.java:185), io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Netty Epoll Server IO #6: [io.netty.channel.epoll.Native.epollWait(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:192), io.netty.channel.epoll.Native.epollWait(Native.java:185), io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Netty Epoll Server IO #0: [io.netty.channel.epoll.Native.epollWait(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:192), io.netty.channel.epoll.Native.epollWait(Native.java:185), io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Signal Dispatcher: [], TIMED_WAITING Worker-Main-33: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410), java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726), java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623), java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)], TIMED_WAITING IO-Worker-62: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401), java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], WAITING Java2D Disposer: [java.base@17.0.1/java.lang.Object.wait(Native Method), java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155), java.base@17.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176), java.desktop@17.0.1/sun.java2d.Disposer.run(Disposer.java:145), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Netty Epoll Server IO #5: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:176), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Netty Epoll Server IO #3: [io.netty.channel.epoll.Native.epollWait(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:192), io.netty.channel.epoll.Native.epollWait(Native.java:185), io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], TIMED_WAITING Worker-Main-28: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410), java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726), java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623), java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)], TIMED_WAITING IO-Worker-59: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401), java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Netty Epoll Server IO #10: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:176), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], TIMED_WAITING IO-Worker-63: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401), java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], TIMED_WAITING Timer hack thread: [java.base@17.0.1/java.lang.Thread.sleep(Native Method), net.minecraft.SystemUtils$6.run(SourceFile:803)], RUNNABLE Notification Thread: [], TIMED_WAITING process reaper: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401), java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], RUNNABLE Netty Epoll Server IO #7: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:176), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], WAITING NonBlockingInputStreamThread: [java.base@17.0.1/java.lang.Object.wait(Native Method), jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], TIMED_WAITING IO-Worker-64: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@17.0.1/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401), java.base@17.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122), java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], WAITING Worker-Main-30: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341), java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724), java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623), java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)], RUNNABLE Netty Epoll Server IO #8: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:176), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)], WAITING Worker-Main-25: [java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method), java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341), java.base@17.0.1/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724), java.base@17.0.1/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623), java.base@17.0.1/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)], RUNNABLE Netty Epoll Server IO #4: [io.netty.channel.epoll.Native.epollWait(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:192), io.netty.channel.epoll.Native.epollWait(Native.java:185), io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:290), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:347), io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986), io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74), java.base@17.0.1/java.lang.Thread.run(Thread.java:833)],}
+   Recent tasks from 40384-40414{}
+   Force Loaded Chunks: { world: {}, world_nether: {}, world_the_end: {},}
+	Server Running: true
+	Player Count: 4 / 100; [EntityPlayer['Shinting'/34, l='ServerLevel[world]', x=856.52, y=104.00, z=1335.91](Shinting at 856.5211526309891,104.0,1335.9082508531376), EntityPlayer['kyy_15'/875, l='ServerLevel[world]', x=-146.18, y=64.00, z=1157.75](kyy_15 at -146.18104177487407,64.0,1157.7515051394453), EntityPlayer['FerZen'/7159, l='ServerLevel[world]', x=-49.30, y=72.00, z=669.07](FerZen at -49.301269076144784,72.0,669.0740063728975), EntityPlayer['suspeople'/7529, l='ServerLevel[world]', x=302.11, y=64.00, z=-816.33](suspeople at 302.10714033732813,64.0,-816.3250359983999)]
+	Data Packs: vanilla, file/bukkit
+	Is Modded: Definitely; Server brand changed to 'CraftBukkit'
+	Type: Dedicated Server (map_server.txt)
