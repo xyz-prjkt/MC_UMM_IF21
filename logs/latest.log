@@ -1,261 +1,309 @@
-[07:52:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07:52:14] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[07:52:15] [Worker-Main-13/INFO]: Loaded 7 recipes
-[07:52:18] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[07:52:18] [Server thread/INFO]: Loading properties
-[07:52:18] [Server thread/INFO]: Default game type: SURVIVAL
-[07:52:18] [Server thread/INFO]: Generating keypair
-[07:52:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:52:18] [Server thread/INFO]: Using epoll channel type
-[07:52:19] [Server thread/INFO]: This server is running CraftBukkit version 3361-Bukkit-dad8517 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[07:52:20] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[07:52:26] [Server thread/WARN]: Legacy plugin ServerPassword v1.2 does not specify an api-version.
-[07:52:27] [Server thread/INFO]: [ServerPassword] Loading ServerPassword v1.2
-[07:52:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:52:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:52:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:52:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:52:27] [Server thread/INFO]: Preparing level "world"
-[07:52:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:52:31] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[07:52:31] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[07:52:31] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[07:52:31] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[07:52:31] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[07:52:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[07:52:32] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[07:52:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[07:52:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[07:52:34] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[07:52:34] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[07:52:35] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[07:52:35] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[07:52:36] [Worker-Main-11/INFO]: Preparing spawn area: 1%
-[07:52:36] [Worker-Main-14/INFO]: Preparing spawn area: 5%
-[07:52:37] [Worker-Main-11/INFO]: Preparing spawn area: 6%
-[07:52:37] [Worker-Main-8/INFO]: Preparing spawn area: 8%
-[07:52:38] [Worker-Main-12/INFO]: Preparing spawn area: 11%
-[07:52:38] [Worker-Main-14/INFO]: Preparing spawn area: 13%
-[07:52:39] [Worker-Main-12/INFO]: Preparing spawn area: 13%
-[07:52:39] [Worker-Main-11/INFO]: Preparing spawn area: 19%
-[07:52:40] [Worker-Main-13/INFO]: Preparing spawn area: 24%
-[07:52:40] [Worker-Main-8/INFO]: Preparing spawn area: 37%
-[07:52:41] [Worker-Main-10/INFO]: Preparing spawn area: 40%
-[07:52:41] [Worker-Main-13/INFO]: Preparing spawn area: 50%
-[07:52:42] [Worker-Main-8/INFO]: Preparing spawn area: 61%
-[07:52:42] [Worker-Main-8/INFO]: Preparing spawn area: 80%
-[07:52:44] [Server thread/INFO]: Time elapsed: 14783 ms
-[07:52:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[07:52:45] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[07:52:45] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[07:52:45] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[07:52:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[07:52:46] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[07:52:46] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[07:52:47] [Worker-Main-12/INFO]: Preparing spawn area: 4%
-[07:52:47] [Worker-Main-8/INFO]: Preparing spawn area: 4%
-[07:52:48] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[07:52:49] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[07:52:49] [Worker-Main-9/INFO]: Preparing spawn area: 25%
-[07:52:49] [Worker-Main-9/INFO]: Preparing spawn area: 25%
-[07:52:50] [Worker-Main-13/INFO]: Preparing spawn area: 55%
-[07:52:50] [Worker-Main-13/INFO]: Preparing spawn area: 68%
-[07:52:51] [Worker-Main-8/INFO]: Preparing spawn area: 73%
-[07:52:52] [Worker-Main-13/INFO]: Preparing spawn area: 73%
-[07:52:52] [Worker-Main-12/INFO]: Preparing spawn area: 78%
-[07:52:53] [Worker-Main-8/INFO]: Preparing spawn area: 79%
-[07:52:53] [Worker-Main-8/INFO]: Preparing spawn area: 80%
-[07:52:54] [Worker-Main-13/INFO]: Preparing spawn area: 81%
-[07:52:54] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[07:52:54] [Worker-Main-8/INFO]: Preparing spawn area: 86%
-[07:52:55] [Worker-Main-10/INFO]: Preparing spawn area: 86%
-[07:52:55] [Worker-Main-12/INFO]: Preparing spawn area: 87%
-[07:52:56] [Worker-Main-14/INFO]: Preparing spawn area: 90%
-[07:52:57] [Worker-Main-8/INFO]: Preparing spawn area: 92%
-[07:52:57] [Worker-Main-9/INFO]: Preparing spawn area: 93%
-[07:52:57] [Worker-Main-8/INFO]: Preparing spawn area: 93%
-[07:52:58] [Worker-Main-14/INFO]: Preparing spawn area: 95%
-[07:52:58] [Worker-Main-11/INFO]: Preparing spawn area: 98%
-[07:52:59] [Worker-Main-8/INFO]: Preparing spawn area: 99%
-[07:52:59] [Server thread/INFO]: Time elapsed: 15128 ms
-[07:52:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[07:53:00] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[07:53:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[07:53:00] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[07:53:01] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[07:53:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[07:53:02] [Worker-Main-13/INFO]: Preparing spawn area: 2%
-[07:53:02] [Worker-Main-9/INFO]: Preparing spawn area: 9%
-[07:53:03] [Worker-Main-14/INFO]: Preparing spawn area: 25%
-[07:53:04] [Worker-Main-11/INFO]: Preparing spawn area: 49%
-[07:53:04] [Worker-Main-14/INFO]: Preparing spawn area: 49%
-[07:53:04] [Worker-Main-11/INFO]: Preparing spawn area: 72%
-[07:53:05] [Worker-Main-9/INFO]: Preparing spawn area: 82%
-[07:53:05] [Worker-Main-10/INFO]: Preparing spawn area: 86%
-[07:53:06] [Worker-Main-13/INFO]: Preparing spawn area: 90%
-[07:53:06] [Server thread/INFO]: Time elapsed: 6886 ms
-[07:53:06] [Server thread/INFO]: [ServerPassword] Enabling ServerPassword v1.2
-[07:53:06] [Server thread/INFO]: ServerPassword Version 1.2 has been enabled.
-[07:53:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[07:53:06] [Server thread/INFO]: Done (39.510s)! For help, type "help"
-[07:53:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@3227611e[id=<null>,name=Minns,properties={},legacy=false] (/125.164.15.138:50656) lost connection: Disconnected
-[07:53:16] [Server thread/INFO]: xyzuan[/36.90.60.213:28491] logged in with entity id 166 at ([world]37.21657120334738, 71.0, 435.50301769674553)
-[07:53:32] [Server thread/INFO]: xyzuan lost connection: Disconnected
-[07:53:32] [Server thread/INFO]: xyzuan left the game
-[07:53:34] [Server thread/INFO]: xyzuan[/36.90.60.213:28256] logged in with entity id 240 at ([world]37.21657120334738, 71.0, 435.50301769674553)
-[07:53:45] [Server thread/INFO]: Minns[/125.164.15.138:50660] logged in with entity id 283 at ([world]85.74790590922706, 76.0, 566.66154247947)
-[07:53:53] [Server thread/INFO]: xyzuan lost connection: MCIF21, Password Salah Bujang!!!
-[07:53:53] [Server thread/INFO]: xyzuan left the game
-[07:54:00] [Server thread/INFO]: xyzuan[/36.90.60.213:28269] logged in with entity id 440 at ([world]37.21657120334738, 71.0, 435.50301769674553)
-[07:54:49] [Server thread/INFO]: xyzuan lost connection: Timed out
-[07:54:50] [Server thread/INFO]: xyzuan left the game
-[07:54:50] [Server thread/WARN]: handleDisconnection() called twice
-[07:58:20] [Server thread/INFO]: Minns lost connection: Timed out
-[07:58:21] [Server thread/INFO]: Minns left the game
-[08:05:32] [Server thread/INFO]: Shinting[/180.248.36.2:57610] logged in with entity id 1364 at ([world]864.5678076320027, 108.0, 1314.8410733076855)
-[08:08:24] [Server thread/INFO]: mars[/180.248.1.134:53825] logged in with entity id 1896 at ([world]23.730985685926765, 76.0, 364.9316958666273)
-[08:10:45] [Server thread/INFO]: BAWRRR[/125.164.0.209:56261] logged in with entity id 2852 at ([world]457.59538599030554, 80.0, -1577.300000011921)
-[08:16:39] [Server thread/WARN]: Boat (vehicle of BAWRRR) moved wrongly! 0.3149071897749991
-[08:16:39] [Server thread/WARN]: Boat (vehicle of BAWRRR) moved wrongly! 0.4309527731329581
-[08:16:39] [Server thread/WARN]: Boat (vehicle of BAWRRR) moved wrongly! 0.5694841616028725
-[08:22:35] [Server thread/INFO]: mars lost connection: Timed out
-[08:22:35] [Server thread/INFO]: mars left the game
-[08:24:16] [Server thread/INFO]: BAWRRR has made the advancement [Hot Stuff]
-[08:29:32] [Server thread/INFO]: BAWRRR has made the advancement [Ice Bucket Challenge]
-[08:31:26] [Server thread/INFO]: Shinting lost connection: Disconnected
-[08:31:26] [Server thread/INFO]: Shinting left the game
-[08:35:49] [Server thread/WARN]: Boat (vehicle of BAWRRR) moved wrongly! 0.5462684135186464
-[08:35:49] [Server thread/WARN]: Boat (vehicle of BAWRRR) moved wrongly! 0.8952478014882672
-[08:35:49] [Server thread/WARN]: Boat (vehicle of BAWRRR) moved wrongly! 1.2546496444749664
-[08:35:49] [Server thread/WARN]: Boat (vehicle of BAWRRR) moved wrongly! 1.5903859296186056
-[08:36:29] [Server thread/INFO]: kyy_15[/182.1.221.96:58586] logged in with entity id 22280 at ([world]-183.09621853456514, 67.64955116649998, 1154.843479429429)
-[09:08:48] [Server thread/INFO]: kyy_15 has made the advancement [Fishy Business]
-[09:15:35] [Server thread/WARN]: BAWRRR moved wrongly!
-[09:22:00] [Server thread/WARN]: BAWRRR moved wrongly!
-[09:24:25] [Server thread/INFO]: BAWRRR lost connection: Disconnected
-[09:24:25] [Server thread/INFO]: BAWRRR left the game
-[10:09:17] [Server thread/INFO]: kyy_15 lost connection: Disconnected
-[10:09:17] [Server thread/INFO]: kyy_15 left the game
-[12:41:17] [Server thread/INFO]: Deutschlands[/125.163.127.48:56784] logged in with entity id 45632 at ([world]91.56464408801418, 18.0, 334.49047551027985)
-[12:45:54] [Server thread/INFO]: kyy_15[/36.75.64.90:7715] logged in with entity id 46348 at ([world]-146.82056643750002, 64.0, 1158.905024752768)
-[12:55:47] [Server thread/INFO]: suspeople[/36.75.64.90:31778] logged in with entity id 49709 at ([world]304.69999998807907, 65.0, -817.6624282121433)
-[13:02:27] [Server thread/INFO]: suspeople lost connection: Timed out
-[13:02:27] [Server thread/INFO]: suspeople left the game
-[13:03:02] [Server thread/INFO]: suspeople[/36.75.64.90:11710] logged in with entity id 55089 at ([world]800.2498824268619, 61.9948643231392, -140.36656550264786)
-[13:03:54] [Server thread/WARN]: Boat (vehicle of suspeople) moved wrongly! 0.3997726402993563
-[13:07:06] [Server thread/INFO]: suspeople has made the advancement [Diamonds!]
-[13:07:13] [Server thread/INFO]: suspeople drowned
-[13:07:20] [Server thread/INFO]: suspeople lost connection: Disconnected
-[13:07:20] [Server thread/INFO]: suspeople left the game
-[13:07:22] [Server thread/INFO]: <Deutschlands> wkwkw[m
-[13:21:55] [Server thread/INFO]: Deutschlands was blown up by Creeper
-[13:21:57] [Server thread/INFO]: kyy_15 was shot by Skeleton
-[13:22:06] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['kyy_15'/46348, l='ServerLevel[world]', x=-216.03, y=64.00, z=1157.82, removed=KILLED](kyy_15 at -216.02817978106125,64.0,1157.8245627100869)'
-[13:22:56] [Server thread/INFO]: kyy_15 was shot by Skeleton
-[13:24:02] [Server thread/INFO]: kyy_15 lost connection: Timed out
-[13:24:02] [Server thread/INFO]: kyy_15 left the game
-[13:24:20] [Server thread/INFO]: kyy_15[/114.122.207.154:56759] logged in with entity id 64562 at ([world]-152.46803997272212, 64.0, 1163.512499988079)
-[13:35:47] [Server thread/INFO]: Deutschlands has made the advancement [Sweet Dreams]
-[13:42:26] [Server thread/INFO]: Deutschlands has made the advancement [Acquire Hardware]
-[13:42:51] [Server thread/INFO]: Deutschlands has made the advancement [Suit Up]
-[13:43:06] [Server thread/INFO]: kyy_15 lost connection: Timed out
-[13:43:06] [Server thread/INFO]: kyy_15 left the game
-[13:43:06] [Server thread/WARN]: handleDisconnection() called twice
-[13:43:22] [Server thread/INFO]: Deutschlands fell off a ladder
-[13:46:24] [Server thread/INFO]: kyy_15[/114.122.207.154:56044] logged in with entity id 71405 at ([world]-153.48661143444528, 64.0, 1161.355532230698)
-[13:56:51] [Server thread/INFO]: kyy_15 has made the advancement [The Parrots and the Bats]
-[14:06:56] [Server thread/INFO]: SEND NUDES[/36.68.10.103:29716] logged in with entity id 78117 at ([world]-151.55120604746418, 64.0, 1160.7211821675553)
-[14:07:44] [Server thread/INFO]: <SEND NUDES> i neef food woee[m
-[14:07:56] [Server thread/INFO]: <kyy_15> bonbon?[m
-[14:08:01] [Server thread/INFO]: <SEND NUDES> iyhowww[m
-[14:08:10] [Server thread/INFO]: <kyy_15> sini aku ada[m
-[14:08:18] [Server thread/INFO]: <SEND NUDES> aku di rumah[m
-[14:10:12] [Server thread/INFO]: SEND NUDES has made the advancement [The Parrots and the Bats]
-[14:11:03] [Server thread/INFO]: SEND NUDES lost connection: Disconnected
-[14:11:03] [Server thread/INFO]: SEND NUDES left the game
-[14:15:32] [Server thread/INFO]: kyy_15 lost connection: Disconnected
-[14:15:32] [Server thread/INFO]: kyy_15 left the game
-[14:22:31] [Server thread/INFO]: Deutschlands has made the advancement [A Seedy Place]
-[14:29:29] [Server thread/INFO]: Deutschlands fell from a high place
-[14:32:27] [Server thread/INFO]: Deutschlands lost connection: Disconnected
-[14:32:27] [Server thread/INFO]: Deutschlands left the game
-[14:43:14] [Server thread/INFO]: SEND NUDES[/36.68.10.103:21725] logged in with entity id 84488 at ([world]-156.69999998807907, 64.5625, 1159.436156219287)
-[14:45:04] [Server thread/INFO]: SEND NUDES has made the advancement [Fishy Business]
-[14:48:02] [Server thread/INFO]: SEND NUDES lost connection: Disconnected
-[14:48:02] [Server thread/INFO]: SEND NUDES left the game
-[15:35:39] [Server thread/INFO]: SEND NUDES[/36.68.10.103:1811] logged in with entity id 85354 at ([world]-181.77935997567167, 68.0, 1176.469310277331)
-[15:39:28] [Server thread/INFO]: SEND NUDES has made the advancement [A Seedy Place]
-[16:11:55] [Server thread/INFO]: SEND NUDES was shot by Skeleton
-[16:43:30] [Server thread/INFO]: SEND NUDES lost connection: Disconnected
-[16:43:30] [Server thread/INFO]: SEND NUDES left the game
-[16:57:13] [Server thread/INFO]: Minns[/125.164.11.142:61270] logged in with entity id 94964 at ([world]73.89703212963576, 71.0, 566.2391786186572)
-[17:11:50] [Server thread/INFO]: SEND NUDES[/36.68.10.103:3301] logged in with entity id 97283 at ([world]-156.69999998807907, 64.5625, 1159.300000011921)
-[17:14:25] [Server thread/INFO]: Minns has made the advancement [Hot Stuff]
-[17:14:41] [Server thread/INFO]: <SEND NUDES> ehhhhh ada minss kuntulll[m
-[17:14:49] [Server thread/INFO]: <Minns> hae anjeng[m
-[17:14:50] [Server thread/INFO]: <SEND NUDES> tidor cok[m
-[17:14:55] [Server thread/INFO]: <Minns> lu juga[m
-[17:15:01] [Server thread/INFO]: <Minns> kesehatanmu loo[m
-[17:15:06] [Server thread/INFO]: <SEND NUDES> ayok[m
-[17:15:13] [Server thread/INFO]: <Minns> ealah kirain tidur di real life[m
-[17:15:21] [Server thread/INFO]: <Minns> gaada kasur gw[m
-[17:15:25] [Server thread/INFO]: <SEND NUDES> in game[m
-[17:15:25] [Server thread/INFO]: <Minns> aku di cave[m
-[17:15:31] [Server thread/INFO]: <SEND NUDES> kuntulll[m
-[17:15:33] [Server thread/INFO]: <Minns> wait[m
-[17:15:34] [Server thread/INFO]: Minns lost connection: Disconnected
-[17:15:34] [Server thread/INFO]: Minns left the game
-[17:15:42] [Server thread/INFO]: Minns[/125.164.11.142:61304] logged in with entity id 98569 at ([world]35.8748893789451, -25.0, 742.7028719053178)
-[17:15:49] [Server thread/INFO]: <SEND NUDES> belom,mmmmmmm[m
-[17:15:51] [Server thread/INFO]: <Minns> udah kah?[m
-[17:15:57] [Server thread/INFO]: Minns lost connection: Disconnected
-[17:15:57] [Server thread/INFO]: Minns left the game
-[17:16:10] [Server thread/INFO]: <SEND NUDES> t[m
-[17:16:23] [Server thread/INFO]: Minns[/125.164.11.142:61312] logged in with entity id 98835 at ([world]35.85805652697313, -25.0, 743.4203685762961)
-[17:16:36] [Server thread/INFO]: <Minns> udah?[m
-[17:17:39] [Server thread/INFO]: <SEND NUDES> lag banget bangke[m
-[17:18:10] [Server thread/INFO]: <SEND NUDES> bisa bantu cari dark wood plank ??[m
-[17:18:25] [Server thread/INFO]: <Minns> aku lagi nge cave[m
-[17:18:36] [Server thread/INFO]: <Minns> ngumpulin material buat ke nether[m
-[17:20:45] [Server thread/INFO]: SEND NUDES lost connection: Disconnected
-[17:20:45] [Server thread/INFO]: SEND NUDES left the game
-[17:21:59] [Server thread/INFO]: SEND NUDES[/36.68.10.103:17243] logged in with entity id 100436 at ([world]-157.34658662540545, 64.0, 1172.201858247036)
-[17:22:34] [Server thread/INFO]: <SEND NUDES> bangke nyobain shader sampek blue screen[m
-[17:22:41] [Server thread/INFO]: <Minns> hahahahhaa[m
-[17:22:47] [Server thread/INFO]: <Minns> jangan maksa[m
-[17:22:55] [Server thread/INFO]: <Minns> parah[m
-[17:25:07] [Server thread/INFO]: <SEND NUDES> diamodn kedelam berapa aku cari kok gak daa[m
-[17:25:22] [Server thread/INFO]: <Minns> sekitar 20 an[m
-[17:25:30] [Server thread/INFO]: <Minns> sekitar minus an juga ada[m
-[17:38:05] [Server thread/INFO]: SEND NUDES was slain by Zombie
-[17:38:10] [Server thread/INFO]: <Minns> R.I.P[m
-[17:38:14] [Server thread/INFO]: <SEND NUDES> zombie kecil mmk[m
-[17:39:16] [Server thread/INFO]: SEND NUDES has made the advancement [Isn't It Iron Pick]
-[17:43:23] [Server thread/INFO]: SEND NUDES was blown up by Creeper
-[17:43:32] [Server thread/INFO]: <Minns> R.I.P kedua kalinya[m
-[17:43:52] [Server thread/INFO]: <SEND NUDES> hdeh[m
-[17:46:11] [Server thread/INFO]: SEND NUDES fell from a high place
-[17:46:22] [Server thread/INFO]: <SEND NUDES> dah lah mo tidur[m
-[17:46:24] [Server thread/INFO]: <Minns> begini bercandamu[m
-[17:46:27] [Server thread/INFO]: <Minns> hahahaha[m
-[17:46:40] [Server thread/INFO]: <SEND NUDES> kntl bnyk banget monster anying[m
-[17:51:25] [Server thread/INFO]: Minns has made the advancement [We Need to Go Deeper]
-[17:54:43] [Server thread/INFO]: <SEND NUDES> ajy dc bentar inio ada yang tanya[m
-[17:54:48] [Server thread/INFO]: <SEND NUDES> aku[m
-[17:54:52] [Server thread/INFO]: SEND NUDES lost connection: Disconnected
-[17:54:52] [Server thread/INFO]: SEND NUDES left the game
-[18:14:26] [Server thread/INFO]: Minns lost connection: Disconnected
-[18:14:26] [Server thread/INFO]: Minns left the game
-[19:02:02] [Server thread/INFO]: Stopping the server
-[19:02:02] [Server thread/INFO]: Stopping server
-[19:02:02] [Server thread/INFO]: [ServerPassword] Disabling ServerPassword v1.2
-[19:02:02] [Server thread/INFO]: ServerPassword has been disabled.
-[19:02:02] [Server thread/INFO]: Saving players
-[19:02:02] [Server thread/INFO]: Saving worlds
-[19:02:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:02:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:02:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:17:25] [Server thread/INFO]: Deutschlands lost connection: Disconnected
+[00:17:25] [Server thread/INFO]: Deutschlands left the game
+[00:38:19] [Server thread/INFO]: Kryptonia[/139.195.147.166:56458] logged in with entity id 2118469 at ([world]14.792060909664434, 67.0, 292.50788306893344)
+[00:39:58] [Server thread/INFO]: Kryptonia was slain by Enderman
+[00:48:08] [Server thread/INFO]: Deutschlands[/114.125.110.33:63704] logged in with entity id 2120417 at ([world]96.60124884940488, 64.0, 530.6999999880791)
+[00:53:40] [Server thread/INFO]: Kryptonia burned to death
+[01:34:02] [Server thread/INFO]: Deutschlands lost connection: Disconnected
+[01:34:02] [Server thread/INFO]: Deutschlands left the game
+[01:44:11] [Server thread/INFO]: Deutschlands[/114.125.110.33:63817] logged in with entity id 2133558 at ([world]96.94109028415043, 64.0, 530.4650648440924)
+[01:49:42] [Server thread/INFO]: Deutschlands lost connection: Disconnected
+[01:49:42] [Server thread/INFO]: Deutschlands left the game
+[01:50:58] [Server thread/INFO]: Kryptonia hit the ground too hard
+[01:55:17] [Server thread/INFO]: Deutschlands[/114.125.110.33:63972] logged in with entity id 2135669 at ([world]97.29945484028343, 64.0, 530.3395617848802)
+[01:55:25] [Server thread/INFO]: Deutschlands lost connection: MCIF21, Password Salah Bujang!!!
+[01:55:25] [Server thread/INFO]: Deutschlands left the game
+[01:55:46] [Server thread/INFO]: Deutschlands[/114.125.110.33:63977] logged in with entity id 2135863 at ([world]97.29945484028343, 64.0, 530.3395617848802)
+[01:57:19] [Server thread/INFO]: kyy_15[/180.241.183.98:56303] logged in with entity id 2136310 at ([world]-291.6221485718172, -12.0, 1211.6626849653842)
+[02:21:35] [Server thread/WARN]: Kryptonia moved wrongly!
+[02:34:28] [Server thread/INFO]: <Deutschlands> tes[m
+[02:34:36] [Server thread/INFO]: <Kryptonia> YAA[m
+[02:35:36] [Server thread/INFO]: <Deutschlands> ini kalo mau pindah ke tab lain, minecraftnya selalu buka men ya?[m
+[02:45:53] [Server thread/INFO]: <kyy_15> deuts rumah mu dmna?[m
+[02:52:09] [Server thread/INFO]: <Deutschlands> di tengah antara rumah mins dan spawn base[m
+[02:52:35] [Server thread/INFO]: <kyy_15> kalo tempat afk fishing?[m
+[02:52:47] [Server thread/INFO]: <Deutschlands> deket pantainya mins[m
+[02:53:43] [Server thread/INFO]: <Deutschlands> bukan disini[m
+[02:54:07] [Server thread/INFO]: <Deutschlands> ini.. tapi hopper dan chestnya lagi ku ambil[m
+[02:54:26] [Server thread/INFO]: <kyy_15> ni sistemnya dpt di mna?[m
+[02:54:32] [Server thread/INFO]: <Deutschlands> utub wkwkw[m
+[02:54:47] [Server thread/INFO]: <kyy_15> ok lah[m
+[02:54:59] [Server thread/INFO]: <kyy_15> aku kira simpel:)[m
+[02:55:18] [Server thread/INFO]: <Deutschlands> lumayan rumit.. tapi ada kesempatan untuk dapet loot mantep[m
+[02:55:31] [Server thread/INFO]: <Deutschlands> auto fish yang lama udh di fix[m
+[02:55:55] [Server thread/INFO]: <kyy_15> dari yt sapa[m
+[02:56:14] [Server thread/INFO]: <Deutschlands> lupa aku, cuman ngecek2in video aja[m
+[02:56:29] [Server thread/INFO]: <kyy_15> okok nanti tak cari[m
+[02:56:41] [Server thread/INFO]: <kyy_15> thanks ya[m
+[02:56:47] [Server thread/INFO]: <Deutschlands> oke sama[m
+[02:57:25] [Server thread/INFO]: kyy_15 drowned
+[02:58:00] [Server thread/INFO]: <Deutschlands> ada bow dan pancingan siap jadi nih bagi yang mau[m
+[02:58:53] [Server thread/INFO]: <kyy_15> nanti ae kalo perlu[m
+[03:00:29] [Server thread/INFO]: <Deutschlands> mantap akhirnya ada trident farm[m
+[03:10:18] [Server thread/INFO]: Deutschlands tried to swim in lava
+[03:12:04] [Server thread/INFO]: Deutschlands was slain by Zombie
+[03:13:52] [Server thread/INFO]: Deutschlands was slain by Zombie
+[03:15:50] [Server thread/INFO]: kresna009CH[/149.113.39.65:54914] logged in with entity id 2165453 at ([world]858.2497102184233, 107.0, 1319.7681359012809)
+[03:17:48] [Server thread/INFO]: Kryptonia was slain by Phantom
+[03:17:53] [Server thread/INFO]: BAWRRR[/125.164.3.165:49847] logged in with entity id 2166748 at ([world]-106.32545432770563, 73.0, 238.26800594878873)
+[03:19:34] [Server thread/INFO]: Deutschlands lost connection: You logged in from another location
+[03:19:34] [Server thread/INFO]: Deutschlands left the game
+[03:19:34] [Server thread/INFO]: Deutschlands[/182.1.67.83:59725] logged in with entity id 2167930 at ([world]-65.30000001192093, 57.0, 497.3283513990088)
+[03:22:31] [Server thread/INFO]: Deutschlands was slain by Zombie
+[03:26:24] [Server thread/INFO]: Kryptonia has made the advancement [A Seedy Place]
+[03:30:11] [Server thread/INFO]: <Kryptonia> rom[m
+[03:30:21] [Server thread/INFO]: <Kryptonia> punya bunga yang tinggi tinggi ga[m
+[03:30:23] [Server thread/INFO]: <Deutschlands> ya?[m
+[03:30:33] [Server thread/INFO]: <Deutschlands> engga punya[m
+[03:30:59] [Server thread/INFO]: <Deutschlands> ganti akun kah itu?[m
+[03:31:03] [Server thread/INFO]: <Kryptonia> iya[m
+[03:33:12] [Server thread/INFO]: <BAWRRR> bang[m
+[03:33:14] [Server thread/INFO]: <Kryptonia> yaa[m
+[03:33:25] [Server thread/INFO]: <BAWRRR> ini jalur di bawah farm spider yak[m
+[03:33:29] [Server thread/INFO]: <Kryptonia> iya[m
+[03:33:30] [Server thread/INFO]: <BAWRRR> cuma ngasi tau[m
+[03:37:36] [Server thread/INFO]: <Kryptonia> ada yang punya lily pad??[m
+[03:39:11] [Server thread/INFO]: <Deutschlands> ada[m
+[03:39:15] [Server thread/INFO]: <Kryptonia> mau[m
+[03:39:32] [Server thread/INFO]: <Deutschlands> ke pantai[m
+[03:39:38] [Server thread/INFO]: <Kryptonia> pantai mana[m
+[03:39:46] [Server thread/INFO]: <Deutschlands> deket taman pohon[m
+[03:40:24] [Server thread/INFO]: <Deutschlands> ada 2 nih[m
+[03:40:51] [Server thread/INFO]: <Kryptonia> pas banget[m
+[03:40:53] [Server thread/INFO]: <Kryptonia> aku buth 2[m
+[03:42:03] [Server thread/INFO]: <Deutschlands> ketemu?[m
+[03:42:05] [Server thread/INFO]: <Kryptonia> KAGA[m
+[03:42:19] [Server thread/INFO]: <Deutschlands> wkwkw lagi dimana?[m
+[03:42:36] [Server thread/INFO]: <Kryptonia> di belakang rumah[m
+[03:42:54] [Server thread/INFO]: <Deutschlands> bukan disitu[m
+[03:45:06] [Server thread/INFO]: <Deutschlands> gamau kah?[m
+[03:45:10] [Server thread/INFO]: <Kryptonia> mau[m
+[03:46:11] [Server thread/INFO]: <Kryptonia> pantai disini banyak woi[m
+[03:46:14] [Server thread/INFO]: <Kryptonia> wkwkwk[m
+[03:46:33] [Server thread/INFO]: <Deutschlands> liat ke kaca base ku[m
+[03:48:17] [Server thread/INFO]: <Kryptonia> sakit ajg[m
+[03:48:18] [Server thread/INFO]: <Deutschlands> sini[m
+[03:48:23] [Server thread/INFO]: <Deutschlands> wkwkw sisa berapa?[m
+[03:48:27] [Server thread/INFO]: <Kryptonia> 3[m
+[03:49:02] [Server thread/INFO]: <Kryptonia> thanks[m
+[03:49:07] [Server thread/INFO]: <Deutschlands> oke[m
+[03:51:35] [Server thread/INFO]: Kryptonia was impaled by Drowned
+[03:53:28] [Server thread/INFO]: kresna009CH fell from a high place
+[03:56:02] [Server thread/INFO]: <BAWRRR> napa bang?[m
+[03:56:10] [Server thread/INFO]: <Kryptonia> liat asap[m
+[03:56:15] [Server thread/INFO]: <BAWRRR> oalah[m
+[03:58:26] [Server thread/INFO]: <Kryptonia> rom[m
+[03:58:28] [Server thread/INFO]: <Kryptonia> hehe[m
+[03:58:34] [Server thread/INFO]: <Kryptonia> coba ke rumah ku sini rom[m
+[03:58:34] [Server thread/INFO]: <Deutschlands> ?[m
+[03:58:53] [Server thread/INFO]: <Kryptonia> aku ada rencana mau buat perkawinan antara makhluk hidup[m
+[04:00:40] [Server thread/INFO]: <Deutschlands> dimana?[m
+[04:00:52] [Server thread/INFO]: <Kryptonia> belakang[m
+[04:01:19] [Server thread/INFO]: <Kryptonia> aku mau cari sapi lagi[m
+[04:01:21] [Server thread/INFO]: <Kryptonia> 1[m
+[04:01:24] [Server thread/INFO]: <Deutschlands> culik sapi ku[m
+[04:01:25] [Server thread/INFO]: <Kryptonia> bisa bantuin?[m
+[04:01:33] [Server thread/INFO]: <Deutschlands> gas[m
+[04:03:38] [Server thread/INFO]: <Kryptonia> mau kemana oi[m
+[04:03:48] [Server thread/INFO]: <Deutschlands> cari sapi kan?[m
+[04:03:51] [Server thread/INFO]: <Kryptonia> yaiya[m
+[04:03:58] [Server thread/INFO]: <Deutschlands> pulau kita gaada sapi[m
+[04:04:01] [Server thread/INFO]: <Kryptonia> akowakoakoawk[m
+[04:04:03] [Server thread/INFO]: kyy_15 lost connection: Disconnected
+[04:04:03] [Server thread/INFO]: kyy_15 left the game
+[04:05:23] [Server thread/INFO]: <Kryptonia> kitu babi[m
+[04:05:30] [Server thread/INFO]: <Deutschlands> kirain mau juga[m
+[04:06:31] [Server thread/INFO]: kyy_15[/180.241.183.98:60265] logged in with entity id 2199653 at ([world]-172.69999998807907, 61.0, 1199.7205737009335)
+[04:06:33] [Server thread/INFO]: <Deutschlands> ada daging mentah?[m
+[04:06:36] [Server thread/INFO]: <Kryptonia> sapi punah[m
+[04:06:48] [Server thread/INFO]: <Deutschlands> buat serigalanya[m
+[04:06:51] [Server thread/INFO]: <Kryptonia> kaga ada[m
+[04:06:54] [Server thread/INFO]: <Kryptonia> gua vegan[m
+[04:06:58] [Server thread/INFO]: <Deutschlands> siap[m
+[04:07:52] [Server thread/INFO]: <Kryptonia> kaga mau[m
+[04:07:55] [Server thread/INFO]: <Deutschlands> ?[m
+[04:07:56] [Server thread/INFO]: <Kryptonia> mau sapui[m
+[04:08:54] [Server thread/INFO]: <Deutschlands> nih[m
+[04:09:00] [Server thread/INFO]: <Kryptonia> yeee[m
+[04:09:06] [Server thread/INFO]: <Kryptonia> ayo bawa ke barn[m
+[04:09:09] [Server thread/INFO]: <Deutschlands> terancam punah[m
+[04:09:15] [Server thread/INFO]: <Deutschlands> pake boat aja cepet[m
+[04:09:16] [Server thread/INFO]: <Kryptonia> emang[m
+[04:09:19] [Server thread/INFO]: <Kryptonia> ga ada kayu[m
+[04:09:54] [Server thread/INFO]: <Kryptonia> pulau kita sebelah mana[m
+[04:10:07] [Server thread/INFO]: <Deutschlands> nih kayu[m
+[04:10:24] [Server thread/INFO]: <Deutschlands> bikin 2 kapal[m
+[04:12:58] [Server thread/INFO]: <Kryptonia> kemana kita cok[m
+[04:13:38] [Server thread/WARN]: Boat (vehicle of Deutschlands) moved wrongly! 0.31947823664916086
+[04:13:55] [Server thread/INFO]: <Deutschlands> kejauhan kalo dari situ[m
+[04:16:29] [Server thread/INFO]: <Deutschlands> biar ku kawal[m
+[04:16:58] [Server thread/INFO]: <Deutschlands> sini[m
+[04:19:28] [Server thread/INFO]: <Deutschlands> ni anjing sialan[m
+[04:19:34] [Server thread/INFO]: <Kryptonia> lah kenapa[m
+[04:19:45] [Server thread/INFO]: <Deutschlands> sukanya berenang[m
+[04:19:55] [Server thread/INFO]: <Kryptonia> yayiyalah[m
+[04:21:48] [Server thread/INFO]: <BAWRRR> bang[m
+[04:21:50] [Server thread/INFO]: <Kryptonia> yaa[m
+[04:21:53] [Server thread/INFO]: <Deutschlands> kenapa bang?[m
+[04:21:59] [Server thread/INFO]: <BAWRRR> ada enchant table[m
+[04:22:04] [Server thread/INFO]: <Kryptonia> kaga bang[m
+[04:22:06] [Server thread/INFO]: <Deutschlands> datang sini ke base ku[m
+[04:22:09] [Server thread/INFO]: <Kryptonia> gua kismin[m
+[04:22:13] [Server thread/INFO]: <BAWRRR> oke otw[m
+[04:22:52] [Server thread/INFO]: Kryptonia has made the advancement [The Parrots and the Bats]
+[04:23:20] [Server thread/INFO]: kyy_15 lost connection: Disconnected
+[04:23:20] [Server thread/INFO]: kyy_15 left the game
+[04:24:09] [Server thread/INFO]: <Deutschlands> tau aja[m
+[04:24:16] [Server thread/INFO]: <BAWRRR> mending sharpnes apa fire aspek?[m
+[04:24:32] [Server thread/INFO]: <BAWRRR> sharpnessnya IV[m
+[04:24:42] [Server thread/INFO]: <Deutschlands> kalau mau damage sakit sharpness.. kalo mau ada DoT pake fire aspek[m
+[04:32:06] [Server thread/INFO]: kyy_15[/180.241.183.98:60527] logged in with entity id 2216003 at ([world]-291.5080874855696, -12.0, 1211.0573657395778)
+[04:32:12] [Server thread/INFO]: Deutschlands was slain by Zombie
+[04:32:15] [Server thread/INFO]: kyy_15 lost connection: MCIF21, Password Salah Bujang!!!
+[04:32:15] [Server thread/INFO]: kyy_15 left the game
+[04:32:24] [Server thread/INFO]: kyy_15[/180.241.183.98:60531] logged in with entity id 2216338 at ([world]-291.5080874855696, -12.0, 1211.0573657395778)
+[04:47:21] [Server thread/INFO]: kresna009CH issued server command: /w
+[04:47:27] [Server thread/INFO]: kresna009CH issued server command: /w kyy_15
+[04:47:34] [Server thread/INFO]: kresna009CH issued server command: /w kyy_15 kyy
+[04:48:25] [Server thread/INFO]: <Kryptonia> napa bang'[m
+[04:48:44] [Server thread/INFO]: <Kryptonia> thanks bang[m
+[04:48:50] [Server thread/INFO]: <BAWRRR> OKE[m
+[04:48:59] [Server thread/INFO]: <kresna009CH> lyy[m
+[04:49:01] [Server thread/INFO]: <kresna009CH> kyy[m
+[04:49:11] [Server thread/INFO]: <kyy_15> apa[m
+[04:49:34] [Server thread/INFO]: kresna009CH issued server command: /w kyy_15 <chat ku masugak>
+[04:50:07] [Server thread/INFO]: <kresna009CH> wisperku ga masuk ky?[m
+[04:50:09] [Server thread/INFO]: <kyy_15> masuk[m
+[04:50:16] [Server thread/INFO]: <kresna009CH> ngetest[m
+[04:50:28] [Server thread/INFO]: kresna009CH issued server command: /w
+[04:50:31] [Server thread/INFO]: <kyy_15> kresna009CH kek gini kah[m
+[04:50:53] [Server thread/INFO]: kresna009CH issued server command: /w kyy_15 TERNYATA RUMAHKU DEKET MESSA COG
+[04:51:13] [Server thread/INFO]: <kresna009CH> tambahin ./w[m
+[04:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[04:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
+[04:52:43] [Server thread/INFO]: kresna009CH was slain by Spider
+[04:52:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6034ms or 120 ticks behind
+[04:52:56] [Server thread/INFO]: <Deutschlands> daf, ada trap door ga?[m
+[04:53:06] [Server thread/INFO]: <Kryptonia> ambil aja kayu di rumah ku[m
+[04:53:11] [Server thread/INFO]: kresna009CH fell off some vines
+[04:53:30] [Server thread/INFO]: <Deutschlands> dan dispenser :v[m
+[05:07:25] [Server thread/INFO]: <BAWRRR> ada yang mau buku feather falling 2 sama eficiency 1?[m
+[05:07:30] [Server thread/INFO]: <Kryptonia> OO SAYA[m
+[05:07:54] [Server thread/INFO]: <BAWRRR> posisi?[m
+[05:07:58] [Server thread/INFO]: <Kryptonia> peternakan[m
+[05:09:06] [Server thread/INFO]: <Kryptonia> bang[m
+[05:09:10] [Server thread/INFO]: <Kryptonia> punya dirt ga[m
+[05:09:15] [Server thread/INFO]: <Kryptonia> aku buth banyak banget[m
+[05:09:18] [Server thread/INFO]: <BAWRRR> ada di base ku[m
+[05:09:29] [Server thread/INFO]: <Kryptonia> yaudah ntar aku ambil boleh??[m
+[05:09:33] [Server thread/INFO]: <BAWRRR> oke[m
+[05:12:27] [Server thread/INFO]: <Kryptonia> thanks bang[m
+[05:12:43] [Server thread/INFO]: <Kryptonia> udah bang[m
+[05:12:44] [Server thread/INFO]: <Kryptonia> wkwkwk[m
+[05:12:46] [Server thread/INFO]: <Kryptonia> full[m
+[05:13:05] [Server thread/INFO]: Deutschlands was slain by Zombie
+[05:15:25] [Server thread/INFO]: kresna009CH was slain by Cave Spider
+[05:15:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[05:18:23] [Server thread/INFO]: Deutschlands was slain by Zombie
+[05:19:06] [Server thread/INFO]: suspeople[/180.241.183.98:62667] logged in with entity id 2248439 at ([world]875.7231392517414, 141.0, 1326.7158685808038)
+[05:19:26] [Server thread/INFO]: <suspeople> if21[m
+[05:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[05:19:35] [Server thread/INFO]: suspeople fell from a high place
+[05:19:40] [Server thread/INFO]: <Deutschlands> ..[m
+[05:19:47] [Server thread/INFO]: Deutschlands was slain by Zombie
+[05:19:54] [Server thread/INFO]: <BAWRRR> ??[m
+[05:24:41] [Server thread/WARN]: suspeople was kicked for floating too long!
+[05:24:41] [Server thread/INFO]: suspeople lost connection: Flying is not enabled on this server
+[05:24:41] [Server thread/INFO]: suspeople left the game
+[05:24:41] [Server thread/WARN]: handleDisconnection() called twice
+[05:24:47] [Server thread/INFO]: suspeople[/180.241.183.98:62783] logged in with entity id 2253977 at ([world]-168.84615799243085, 64.47160001039505, 1195.6096775871388)
+[05:26:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5051ms or 101 ticks behind
+[05:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30173ms or 603 ticks behind
+[05:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45499ms or 909 ticks behind
+[05:30:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40278ms or 805 ticks behind
+[05:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23058ms or 461 ticks behind
+[05:31:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5656ms or 113 ticks behind
+[05:32:38] [Server thread/INFO]: <suspeople> p[m
+[05:32:46] [Server thread/INFO]: <Deutschlands> c[m
+[05:32:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[05:33:07] [Server thread/INFO]: <kyy_15> ada yg punya slime ball kah?[m
+[05:33:15] [Server thread/INFO]: <BAWRRR> bang[m
+[05:33:30] [Server thread/INFO]: <BAWRRR> amethys shard buat apa yak/[m
+[05:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[05:33:45] [Server thread/INFO]: <kresna009CH> dirumah ada ky[m
+[05:33:45] [Server thread/INFO]: <Deutschlands> telescope[m
+[05:33:59] [Server thread/INFO]: <kyy_15> otw kris[m
+[05:34:20] [Server thread/INFO]: <kresna009CH> cari sendiri yaa:v[m
+[05:34:24] [Server thread/INFO]: <kresna009CH> lagi jelajah[m
+[05:34:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36479ms or 729 ticks behind
+[05:35:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24056ms or 481 ticks behind
+[05:37:02] [Server thread/INFO]: Kryptonia lost connection: Disconnected
+[05:37:02] [Server thread/INFO]: Kryptonia left the game
+[05:37:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52283ms or 1045 ticks behind
+[05:37:53] [Server thread/INFO]: suspeople fell from a high place
+[05:38:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41475ms or 829 ticks behind
+[05:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41190ms or 823 ticks behind
+[05:40:19] [Server thread/INFO]: kyy_15 fell from a high place
+[05:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33882ms or 677 ticks behind
+[05:40:44] [Server thread/INFO]: <Deutschlands> wih basenya upgrade[m
+[05:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36524ms or 730 ticks behind
+[05:42:28] [Server thread/INFO]: suspeople fell off some vines
+[05:42:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41547ms or 830 ticks behind
+[05:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28922ms or 578 ticks behind
+[05:44:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22735ms or 454 ticks behind
+[05:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28346ms or 566 ticks behind
+[05:46:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33884ms or 677 ticks behind
+[05:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29491ms or 589 ticks behind
+[05:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36801ms or 736 ticks behind
+[05:50:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44618ms or 892 ticks behind
+[05:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30468ms or 609 ticks behind
+[05:51:07] [Server thread/INFO]: <Deutschlands> nautilus shell buat apa?[m
+[05:51:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
+[05:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47673ms or 953 ticks behind
+[05:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21656ms or 433 ticks behind
+[05:55:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[05:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39092ms or 781 ticks behind
+[05:57:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36794ms or 735 ticks behind
+[05:58:30] [Server thread/INFO]: kresna009CH has made the advancement [What a Deal!]
+[05:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18115ms or 362 ticks behind
+[05:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6336ms or 126 ticks behind
+[06:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24620ms or 492 ticks behind
+[06:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23413ms or 468 ticks behind
+[06:01:40] [Server thread/INFO]: <Deutschlands> wih ketemu temple[m
+[06:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25150ms or 503 ticks behind
+[06:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5062ms or 101 ticks behind
+[06:03:35] [Server thread/INFO]: SEND NUDES[/36.68.11.72:28744] logged in with entity id 2287133 at ([world]-150.5, 69.0, 1172.5)
+[06:03:55] [Server thread/INFO]: <Deutschlands> njir lagnya[m
+[06:03:57] [Server thread/INFO]: <SEND NUDES> woeeeeee[m
+[06:04:11] [Server thread/WARN]: Boat (vehicle of Deutschlands) moved wrongly! 0.43997030458110525
+[06:04:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 46538ms or 930 ticks behind
+[06:05:12] [Server thread/INFO]: <SEND NUDES> farm apaa ini[m
+[06:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44515ms or 890 ticks behind
+[06:06:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10780ms or 215 ticks behind
+[06:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15984ms or 319 ticks behind
+[06:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
+[06:08:13] [Server thread/WARN]: Boat (vehicle of Deutschlands) moved wrongly! 2.0393699176803604
+[06:08:31] [Server thread/INFO]: kresna009CH drowned
+[06:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[06:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9199ms or 183 ticks behind
+[06:13:52] [Server thread/INFO]: SEND NUDES was blown up by Creeper
+[06:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5056ms or 101 ticks behind
+[06:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11662ms or 233 ticks behind
+[06:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18591ms or 371 ticks behind
+[06:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37622ms or 752 ticks behind
+[06:22:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39886ms or 797 ticks behind
+[06:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25464ms or 509 ticks behind
+[06:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25107ms or 502 ticks behind
+[06:25:13] [Server thread/WARN]: Boat (vehicle of Deutschlands) moved wrongly! 0.7050149458274093
+[06:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8318ms or 166 ticks behind
+[06:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19434ms or 388 ticks behind
+[06:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32232ms or 644 ticks behind
+[06:28:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 46436ms or 928 ticks behind
+[06:29:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33076ms or 661 ticks behind
+[06:30:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 59284ms or 1185 ticks behind
+[06:32:21] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[06:32:21] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[06:32:23] [Server Watchdog/ERROR]: This crash report has been saved to: /root/mc/./crash-reports/crash-2021-12-21_06.32.23-server.txt
+[06:32:23] [Thread-1/INFO]: Stopping server
+[06:32:23] [Thread-1/INFO]: [ServerPassword] Disabling ServerPassword v1.2
+[06:32:23] [Thread-1/INFO]: ServerPassword has been disabled.
