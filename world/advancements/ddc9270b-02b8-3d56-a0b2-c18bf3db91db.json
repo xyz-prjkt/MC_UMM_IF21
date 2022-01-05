@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-12-23 12:21:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2021-12-12 18:20:16 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-13 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-12-23 12:21:43 +0000"
     },
     "done": true
   },
@@ -494,6 +506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-12-23 12:21:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2021-12-13 00:24:46 +0000"
@@ -551,6 +569,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-12-14 05:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-12-23 12:21:59 +0000"
     },
     "done": true
   },
@@ -929,6 +953,7 @@
       "minecraft:spider": "2021-12-14 16:24:08 +0000",
       "minecraft:creeper": "2021-12-12 18:31:34 +0000",
       "minecraft:phantom": "2021-12-14 16:55:30 +0000",
+      "minecraft:zombified_piglin": "2021-12-23 12:56:07 +0000",
       "minecraft:cave_spider": "2021-12-15 03:08:20 +0000",
       "minecraft:enderman": "2021-12-16 08:29:40 +0000",
       "minecraft:zombie": "2021-12-12 18:07:36 +0000",
@@ -1476,6 +1501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-12-23 12:21:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-12-13 05:22:08 +0000"
@@ -1887,6 +1918,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-12-23 12:47:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-12-12 18:32:17 +0000"
@@ -2009,12 +2046,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-12-23 12:47:30 +0000",
       "minecraft:nether_wastes": "2021-12-16 08:26:52 +0000",
       "minecraft:soul_sand_valley": "2021-12-18 18:09:21 +0000",
       "minecraft:warped_forest": "2021-12-16 08:22:48 +0000",
       "minecraft:basalt_deltas": "2021-12-16 08:28:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
