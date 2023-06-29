@@ -348,6 +348,7 @@
       "minecraft:spider": "2021-12-13 11:24:39 +0000",
       "minecraft:creeper": "2021-12-16 09:25:47 +0000",
       "minecraft:evoker": "2022-01-05 04:32:18 +0000",
+      "minecraft:slime": "2023-06-29 06:09:33 +0000",
       "minecraft:phantom": "2021-12-16 09:06:21 +0000",
       "minecraft:zombified_piglin": "2021-12-20 04:25:33 +0000",
       "minecraft:witch": "2021-12-19 06:06:57 +0000",
@@ -4308,15 +4309,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2023-06-28 13:56:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2023-06-28 12:44:17 +0000"
+      "has_book": "2023-06-28 06:25:30 +0000"
     },
     "done": true
   },
@@ -4326,9 +4321,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_soul_sand": "2023-06-28 13:41:54 +0000"
+      "has_smithing_trim_template": "2023-06-28 12:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-06-28 12:44:17 +0000"
     },
     "done": true
   },
@@ -4338,27 +4339,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2023-06-28 12:18:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2023-06-28 06:25:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2023-06-28 12:44:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-06-28 13:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2023-06-28 13:56:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2023-06-28 13:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2023-06-29 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2023-06-29 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2023-06-29 09:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-06-29 10:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-06-29 10:22:59 +0000"
     },
     "done": true
   },
